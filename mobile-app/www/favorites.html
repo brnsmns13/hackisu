@@ -1,0 +1,20 @@
+<!-- Make sure all your bars are the first things in your <body> -->
+<header class="bar bar-nav">
+    <a class="icon icon-left-nav pull-left" href="#/" data-transition="slide-out"></a>
+    <h1 class="title">Favorites</h1>
+</header>
+<!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
+<div class="content" ng-controller="FavoritesCtrl">
+    <ul class="table-view">
+        <!-- Get the users favorites from firebase -->
+        <li ng-repeat="fav in user_favorites" class="table-view-cell media">
+            <a class="navigate-right">
+                <img class="media-object pull-left" src="http://placehold.it/42x42">
+                <div class="media-body">
+                    <h3>{{fav.name}}</h3>
+                </div>
+                <p>{{fav.description}}</p>
+            </a>
+        </li>
+    </ul>
+</div>
