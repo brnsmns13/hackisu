@@ -5,10 +5,10 @@
 </header>
 <!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
 <div class="content" ng-controller="FindLocalCtrl">
-    <ul ng-if="!selected" class="table-view">
+    <ul class="table-view">
         <!-- Get the users favorites from firebase -->
-        <li ng-repeat="bus in local" class="table-view-cell media">
-            <a ng-click="goto_link('/find_local/' + 3)" class="navigate-right"> 
+        <li ng-repeat="bus in businesses" class="table-view-cell media">
+            <a ng-click="goto_link('/business/' + bus.business_data.business_id)" class="navigate-right"> 
                 <img class="media-object pull-left" src="http://placehold.it/42x42">
                 <div class="media-body">
                     <h3>{{bus.name}}</h3>
@@ -16,43 +16,5 @@
                 <p>{{bus.description}}</p>
             </a>
         </li>
-        <li ng-repeat="bus in businesses" class="table-view-cell media">
-            <a ng-click="goto_link('/find_local/' + 3)" class="navigate-right"> 
-                <img class="media-object pull-left" src="http://placehold.it/42x42">
-                <div class="media-body">
-                    <h3>{{bus.is_business}}</h3>
-                </div>
-                <p>{{bus.name}}</p>
-            </a>
-        </li>
     </ul>
-    <div ng-if="selected">
-        <style>
-            #header-survey {
-                text-align: center;
-                width: 100%;
-            }
-            #business-name {
-                padding-top: 20px;
-                text-align: center;
-                width: 100%;
-            }
-            #business-description {
-                padding-left: 10px;
-                padding-right: 10px;
-            }
-        </style>
-        <h1 id="business-name">{{business.name}}</h1>
-        <p id="business-description">{{business.description}}</p>
-        <h1 id="header-survey">Surveys</h1>
-        <ul class="table-view">
-            <li ng-repeat="survey in surveys" class="table-view-cell media">
-                <a ng-click="goto_link('/survey/' + survey.survey_id)">
-                    {{survey.name}}
-                    <span class="badge">{{survey.questions.length}}</span>
-                </a>
-            </li>
-        </ul>
-        
-    </div>
 </div>

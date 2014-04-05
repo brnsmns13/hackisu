@@ -1,0 +1,34 @@
+<!-- Make sure all your bars are the first things in your <body> -->
+<header class="bar bar-nav">
+    <a id="back-link" class="icon icon-left-nav pull-left" href="#/find_local" data-transition="slide-out"></a>
+    <h1 class="title">Your Coupons</h1>
+</header>
+<!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
+<div class="content" ng-controller="BusinessCtrl">
+    <style>
+        #header-survey {
+            text-align: center;
+            width: 100%;
+        }
+        #business-name {
+            padding-top: 20px;
+            text-align: center;
+            width: 100%;
+        }
+        #business-description {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+    </style>
+    <h1 id="business-name">{{business.name}}</h1>
+    <p id="business-description">{{business.description}}</p>
+    <h1 id="header-survey">Surveys</h1>
+    <ul class="table-view">
+        <li ng-repeat="survey in business.business_data.active_surveys" class="table-view-cell">
+            <a ng-click="goto_link('/survey/' + survey)">
+                Survey {{$index+1}}
+                <span class="badge">1</span>
+            </a>
+        </li>
+    </ul>
+</div>
