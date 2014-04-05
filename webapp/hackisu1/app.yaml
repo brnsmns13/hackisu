@@ -10,12 +10,8 @@ handlers:
   upload: favicon\.ico
 
 - url: .*
-  static_files: static_website/index.html
-  upload: static_website/index.html
-
-- url: /dashboard
-  static_files: static_website/dashboard.html
-  upload: static_website/dashboard.html
+  static_files: app/index.html
+  upload: app/index.html
 
 libraries:
 - name: webapp2
