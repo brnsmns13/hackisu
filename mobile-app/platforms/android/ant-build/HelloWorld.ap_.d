@@ -43,13 +43,8 @@
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/background.js \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/cordova.js \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/cordova_plugins.js \
-/Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/favorites.html \
-/Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/find_local.html \
-/Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/index-back.html \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/index.css \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/index.html \
-/Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/login.html \
-/Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/main.html \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/manifest.json \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/manifest.mobile.json \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/plugins \
@@ -57,7 +52,6 @@
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/assets/angular.min.js \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/assets/app.js \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/assets/chrome_logo.png \
-/Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/assets/controllers.js \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/assets/fastclick.js \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/assets/icons \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/assets/images \
@@ -153,4 +147,10 @@
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/plugins/org.chromium.runtime/lib/CryptoJS/enc-base64-min.js \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/plugins/org.chromium.runtime/lib/CryptoJS/sha256.js \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/plugins/org.chromium.storage/storage.js \
+/Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/views/favorites.html \
+/Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/views/find_local.html \
+/Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/views/index.html \
+/Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/views/login.html \
+/Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/views/main.html \
+/Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/views/take_survey.html \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/ant-build/AndroidManifest.xml \

@@ -10,4 +10,32 @@
     <preference name="AndroidPersistentFileLocation" value="Internal" />
     <content src="plugins/org.chromium.bootstrap/chromeapp.html" />
     <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
+    <access origin="*" />
 </widget>

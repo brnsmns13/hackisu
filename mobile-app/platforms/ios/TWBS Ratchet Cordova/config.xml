@@ -25,16 +25,23 @@
     <feature name="InAppBrowser">
         <param name="ios-package" value="CDVInAppBrowser" />
     </feature>
-    <feature name="Keyboard">
-        <param name="ios-package" onload="true" value="CDVKeyboard" />
-    </feature>
     <feature name="NetworkStatus">
         <param name="ios-package" value="CDVConnection" />
+    </feature>
+    <feature name="Keyboard">
+        <param name="ios-package" onload="true" value="CDVKeyboard" />
     </feature>
     <feature name="StatusBar">
         <param name="ios-package" onload="true" value="CDVStatusBar" />
     </feature>
     <preference name="StatusBarOverlaysWebView" value="true" />
+    <feature name="ChromeNavigation">
+        <param name="ios-package" value="ChromeNavigation" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="ChromeStorage">
+        <param name="ios-package" value="ChromeStorage" />
+    </feature>
     <feature name="ChromeBootstrap">
         <param name="ios-package" value="ChromeBootstrap" />
         <param name="onload" value="true" />
@@ -48,13 +55,6 @@
     <preference name="DisallowOverscroll" value="true" />
     <feature name="ChromeI18n">
         <param name="ios-package" value="ChromeI18n" />
-    </feature>
-    <feature name="ChromeNavigation">
-        <param name="ios-package" value="ChromeNavigation" />
-        <param name="onload" value="true" />
-    </feature>
-    <feature name="ChromeStorage">
-        <param name="ios-package" value="ChromeStorage" />
     </feature>
     <name>TWBS Ratchet Cordova</name>
     <description>A Sample Chrome App</description>

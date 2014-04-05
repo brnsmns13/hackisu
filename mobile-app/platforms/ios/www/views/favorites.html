@@ -4,8 +4,8 @@
     <h1 class="title">Favorites</h1>
 </header>
 <!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
-<div class="content" ng-controller="FavoritesCtrl">
-    <ul class="table-view">
+<div  class="content" ng-controller="FavoritesCtrl">
+    <ul ng-if="!selected" class="table-view">
         <!-- Get the users favorites from firebase -->
         <li ng-repeat="fav in user_favorites" class="table-view-cell media">
             <a class="navigate-right">
@@ -17,4 +17,30 @@
             </a>
         </li>
     </ul>
+    <div ng-if="selected">
+        <style>
+            #header-survey {
+                text-align: center;
+                width: 100%;
+            }
+        </style>
+        <ul class="table-view">
+            <li ng-repeat="fav in user_favorites" class="table-view-cell media">
+                <a class="navigate-right">
+                    <img class="media-object pull-left" src="http://placehold.it/80x80">
+                    <div class="media-body">
+                        <h2>{{fav.name}}</h2>
+                    </div>
+                    <p>{{fav.description}}</p>
+                </a>
+            </li>
+        </ul>
+        <h1 id="header-survey">Surveys</h1>
+        <ul class="table-view">
+            <li ng-repeat="survey in surveys" class="table-view-cell media">
+                {{survey.name}}
+                <span class="badge">{{survey.question_count}}</span>
+            </li>
+        </ul>
+    </div>
 </div>
