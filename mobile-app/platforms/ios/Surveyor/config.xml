@@ -56,8 +56,8 @@
     <feature name="ChromeI18n">
         <param name="ios-package" value="ChromeI18n" />
     </feature>
-    <name>TWBS Ratchet Cordova</name>
-    <description>A Sample Chrome App</description>
+    <name>Surveyor</name>
+    <description>Answer quick questions for local businesses and get great deals!</description>
     <author />
     <preference name="KeyboardShrinksView" value="true" />
     <preference name="StatusBarOverlaysWebView" value="false" />

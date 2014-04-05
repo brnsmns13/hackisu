@@ -1,10 +1,10 @@
 <!-- Make sure all your bars are the first things in your <body> -->
 <header class="bar bar-nav">
     <a id="back-link" class="icon icon-left-nav pull-left" href="#/find_local/1" data-transition="slide-out"></a>
-    <h1 class="title">Find Local Businesses</h1>
+    <h1 class="title">Survey</h1>
 </header>
 <!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
-<div class="content" ng-controller="FindLocalCtrl">
+<div class="content" ng-controller="SurveyCtrl">
     <style>
         #submit-survey {
             margin: auto;
@@ -18,11 +18,11 @@
     <div class="card">
         <ul class="table-view">
             <!-- Get the users favorites from firebase -->
-            <li ng-repeat="q in questions" class="table-view-cell">
+            <li ng-repeat="q in survey.questions" class="table-view-cell">
                 <h3>{{q.q_str}}</h3>
                 <div class="segmented-control">
-                    <a ng-click="q.response = a.a_id" ng-repeat="a in q.answers" class="control-item">
-                        {{a.a_str}}
+                    <a ng-click="q.response[$index]" ng-repeat="a in q.answers" class="control-item">
+                        {{a}}
                     </a>
                 </div>
             </li>

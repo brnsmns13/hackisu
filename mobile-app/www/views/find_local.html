@@ -8,12 +8,21 @@
     <ul ng-if="!selected" class="table-view">
         <!-- Get the users favorites from firebase -->
         <li ng-repeat="bus in local" class="table-view-cell media">
-            <a ng-click="goto_link('/find_local/' + bus.business_id)" class="navigate-right"> 
+            <a ng-click="goto_link('/find_local/' + 3)" class="navigate-right"> 
                 <img class="media-object pull-left" src="http://placehold.it/42x42">
                 <div class="media-body">
                     <h3>{{bus.name}}</h3>
                 </div>
                 <p>{{bus.description}}</p>
+            </a>
+        </li>
+        <li ng-repeat="bus in businesses" class="table-view-cell media">
+            <a ng-click="goto_link('/find_local/' + 3)" class="navigate-right"> 
+                <img class="media-object pull-left" src="http://placehold.it/42x42">
+                <div class="media-body">
+                    <h3>{{bus.is_business}}</h3>
+                </div>
+                <p>{{bus.name}}</p>
             </a>
         </li>
     </ul>
