@@ -9,23 +9,23 @@ angular.module('hackisu', ['ngRoute', 'firebase'])
     $routeProvider
     .when('/main', {
         controller: 'MainCtrl',
-        templateUrl: '/main.html'
+        templateUrl: '/views/main.html'
     })
     .when('/login', {
         controller: 'LoginCtrl',
-        templateUrl: '/login.html'
+        templateUrl: '/views/login.html'
     })
     .when('/favs', {
         controller: 'FavoritesCtrl',
-        templateUrl: '/favorites.html'
+        templateUrl: '/views/favorites.html'
     })
     .when('/favs/:favID', {
         controller: 'FavoriteCtrl',
-        templateUrl: '/favorites.html'
+        templateUrl: '/views/favorites.html'
     })
     .when('/find_local', {
         controller: 'FindLocalCtrl',
-        templateUrl: '/find_local.html'
+        templateUrl: '/views/find_local.html'
     })
     .otherwise({
         redirectTo: '/login'
