@@ -19,11 +19,17 @@ angular.module('surveyorApp.controllers.signup', [])
       };
 
       $scope.createAccount = function() {
-        if( !$scope.email ) {
+        if( !$scope.name ) {
+            $scope.err = 'Please enter your name';
+        }
+        else if( !$scope.email ) {
           $scope.err = 'Please enter an email address';
         }
         else if( !$scope.pass ) {
           $scope.err = 'Please enter a password';
+        }
+        else if( !$scope.businessname ) {
+            $scope.err = 'Please enter a business name';
         }
         else {
           loginService.createAccount($scope.name, $scope.email, $scope.pass, function(err, user) {
@@ -33,7 +39,7 @@ angular.module('surveyorApp.controllers.signup', [])
             else {
               $scope.login(function(err) {
                 if( !err ) {
-                  loginService.createProfile(user.id, $scope.name, user.email);
+                  loginService.createProfile(user.id, $scope.name, user.email, $scope.businessname);
                 }
               });
             }
