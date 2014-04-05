@@ -23,6 +23,6 @@ app.config(['$routeProvider',
 
   // your Firebase URL goes here
   // should look something like: https://blahblahblah.firebaseio.com
-  .constant('FBURL', 'https://hackisu.firebaseio.com/')
+  .constant('FBURL', 'https://popping-fire-4260.firebaseio.com/')
 
 
