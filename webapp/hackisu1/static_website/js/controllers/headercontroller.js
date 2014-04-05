@@ -5,7 +5,7 @@ angular.module('surveyorApp.controllers.header', ['surveyorApp.services.login'])
     function($scope, $location, loginService, angularFire, FBURL) {
 
       $scope.$on("angularFireAuth:login", function() {
-
+          angularFire(new Firebase(FBURL+'/users/'+$scope.auth.id), $scope, 'user');
       });
 
       $scope.logout = function() {
@@ -13,5 +13,13 @@ angular.module('surveyorApp.controllers.header', ['surveyorApp.services.login'])
       };
 
       $scope.navbarEntries = [
+          {
+              "title": "YourSurveys",
+              "link": "/surveys"
+          },
+          {
+              "title": "AddSurveys",
+              "link": "/addsurvey"
+          }
       ];
     }])

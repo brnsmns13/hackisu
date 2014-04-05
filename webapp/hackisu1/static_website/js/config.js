@@ -9,6 +9,8 @@ app.config(['$routeProvider',
       .when('/',        { templateUrl: 'views/default.html' })
       .when('/signin',  { templateUrl: 'views/users/signin.html' })
       .when('/signup',  { templateUrl: 'views/users/signup.html' })
+      .when('/surveys',                 { templateUrl: 'views/surveys/list.html', authRequired: true })
+      .when('/addsurvey',          { templateUrl: 'views/surveys/add.html', authRequired: true })
       .otherwise(       { redirectTo: '/' });
     }])
   
