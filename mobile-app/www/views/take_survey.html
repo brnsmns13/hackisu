@@ -1,6 +1,6 @@
 <!-- Make sure all your bars are the first things in your <body> -->
 <header class="bar bar-nav">
-    <a id="back-link" class="icon icon-left-nav pull-left" href="#/find_local/1" data-transition="slide-out"></a>
+    <a id="back-link" class="icon icon-left-nav pull-left" href="#/find_local" data-transition="slide-out"></a>
     <h1 class="title">Survey</h1>
 </header>
 <!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
@@ -28,5 +28,6 @@
             </li>
         </ul>
     </div>
-    <button ng-click="submit_survey()" id="submit-survey" class="btn btn-positive btn-block">Submit</button>
+    <button ng-click="submit_survey(survey)" id="submit-survey" class="btn btn-positive btn-block">Submit</button>
+    <p>{{user_id}}</p>
 </div>

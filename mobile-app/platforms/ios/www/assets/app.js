@@ -53,7 +53,7 @@ angular.module('hackisu', ['ngRoute', 'firebase'])
         controller: 'CouponCtrl',
         templateUrl: '/views/coupon.html'
     })
-    .when('/coupon/:couponID', {
+    .when('/coupon/:code', {
         controller: 'CouponCtrl',
         templateUrl: '/views/coupon.html'
     })
@@ -62,65 +62,74 @@ angular.module('hackisu', ['ngRoute', 'firebase'])
     })
 })
 
-.controller('MainCtrl', function($scope, Firebase, Users, Surveys) {
+.controller('MainCtrl', function($scope, $rootScope, Firebase, Users, Surveys) {
     $scope.u = Users;
     $scope.s = Surveys;
+    $scope.f = Firebase;
+    $rootScope.user_id = 2;
+    $scope.user_rewards = Firebase.child('/rewards');
 })
 
-.controller('LoginCtrl', function($scope, $location, Firebase) {
+.controller('LoginCtrl', function($scope, $location, $rootScope, Firebase) {
+    $scope.debug = "test";
     $scope.do_login = function() {
-        var auth = new FirebaseSimpleLogin(Firebase, function(error, user) {
-            if(user) {
-                $location.path("/main");
+        $scope.email = "test@test.com";
+        $scope.password = "test";
+        var ref = new Firebase(fbURL);
+        var auth = new FirebaseSimpleLogin(ref, function(error, user) {
+            if (error) {
+                // an error occurred while attempting login
+                //console.log(error);
+            } else if (user) {
+                // user authenticated with Firebase
+                //console.log('User ID: ' + user.id + ', Provider: ' + user.provider);
             } else {
-                $location.path("/login");
+                // user is logged out
             }
         });
         auth.login('password', {
-            email: $scope.email,
-            password: $scope.password
+            email: "test@test.com",
+            password: "test"
         });
+        $scope.password = "test123";
+        //$location.path("/favs");
     }
 })
 
-.controller('SurveyCtrl', function($scope, $routeParams, $location, Surveys) {
+.controller('SurveyCtrl', function($scope, $routeParams, $rootScope, $location, Surveys) {
     
-    $scope.submit_survey = function() {
-        $location.path("/coupon");
+    $scope.submit_survey = function(id) {
+        var r = new Firebase('https://hackisu.firebaseio.com');
+        var rewards = r.child('/rewards');
+        r.child('rewards').push({business_id:24, business_name:"Pixel's Video Games", code:9876, discount:"Free sticker with next purchase!"});
+        $location.path("/main");
     }
     
-    //var julieRef = new Firebase('https://SampleChat.firebaseIO-demo.com/users/julie/');
-    
     $scope.surveys = Surveys;
-    $scope.survey = $scope.surveys["-JJmDalXyYdfNE2UF0aW"];
+    $scope.survey = $scope.surveys[$routeParams.surveyID];
+    $scope.user_id = $rootScope.user_id;
 })
 
 .controller('CouponCtrl', function($scope, $routeParams, $location, Firebase) {
     $scope.goto_link = function(link) {
         $location.path(link.toString().trim());
     }
-    if($routeParams.couponID != null) {
+    if($routeParams.code != null) {
         $scope.selected = true;
+        document.getElementById("back-link").href = "#/coupon"
         // Get from firebase
-        $scope.coupon = {
-            business_name: "Business 1",
-            description: "Good for 5% off any order!"
-        };
+        $scope.coupons = Firebase['rewards'];
+        $scope.coupon = null;
+        for(key in $scope.coupons) {
+            if($scope.coupons[key].code == $routeParams.code) {
+                $scope.coupon = $scope.coupons[key];
+                break;
+            }
+        }
     } else {
         $scope.selected = false;
         // Get from firebase
-        $scope.coupons = [
-            {
-                c_id: 1,
-                business_name: "Lorry's Coffee",
-                description: "25% of any regular drip coffee!"
-            },
-            {
-                c_id: 2,
-                business_name: "Pixels Video Games",
-                description: "5% off any purchase!"
-            }
-        ];
+        $scope.coupons = Firebase['rewards'];
     }
 })
 
@@ -186,7 +195,7 @@ angular.module('hackisu', ['ngRoute', 'firebase'])
     
     $scope.surveys = $scope.businesses[$routeParams.busID];
         for(s in $scope.surveys) {
-            var dataRef = new Firebase(fbURL + '/surveys/' + s + '/description');
+            var dataRef = new Firebase(fbURL + 'surveys/' + s + '/description');
             s.description = dataRef;
         }
 
