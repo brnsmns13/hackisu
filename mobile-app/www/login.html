@@ -1,0 +1,31 @@
+<!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
+<style>
+    #login-body {
+        background-image:url('assets/images/stardust.png');
+        background-position: initial initial;
+        background-repeat: initial initial;
+    }
+    #app-title {
+        text-align: center;
+        font-size: 4em;
+        font-weight: 200;
+        font-style: italic;
+        width: 100%;
+        color: #20b75b;
+        padding-top: 80px;
+        padding-bottom: 40px;
+    }
+    #login-form {
+        margin: auto;
+        width: 75%;
+    }
+</style>
+<div id="login-body" class="content" ng-controller="FavoritesCtrl" style="background: ">
+    <form id="login-form">
+        <p id="app-title">Surveyor</p>
+        <input type="text" placeholder="Username">
+        <input type="password" placeholder="Password">
+        <button class="btn btn-positive btn-block">Login</button>
+        <button class="btn btn-primary btn-block">Sign up</button>
+    </form>
+</div>

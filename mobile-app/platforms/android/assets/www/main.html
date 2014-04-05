@@ -9,9 +9,22 @@
 <div class="content" ng-controller="MainCtrl">
     <ul class="table-view">
         <li class="table-view-cell">
-            <a class="navigate-right" href="#/favs" data-transition="slide-in">Your Favorites</a>
+            <a class="navigate-right" href="#/favs" data-transition="slide-in">
+                <span class="icon icon-star-filled"></span>
+                Your Favorites
+            </a>
         </li>
-        <li class="table-view-cell"><span class="icon icon-home"></span>Find Local Businesses</li>
-        <li class="table-view-cell"><span class="icon icon-check"></span>Use Your Cupons</li>
+        <li class="table-view-cell">
+            <a class="navigate-right" href="#/find_local" data-transition="slide-in">
+                <span class="icon icon-home"></span>
+                Find Local Businesses
+            </a>
+        </li>
+        <li class="table-view-cell">
+            <a class="navigate-right" href="#/coupons" data-transition="slide-in">
+                <span class="icon icon-check"></span>
+                Your Coupons
+            </a>
+        </li> 
     </ul>
 </div>

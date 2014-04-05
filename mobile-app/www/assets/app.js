@@ -7,9 +7,13 @@ angular.module('hackisu', ['ngRoute', 'firebase'])
 
 .config(function($routeProvider) {
     $routeProvider
-    .when('/', {
+    .when('/main', {
         controller: 'MainCtrl',
         templateUrl: '/main.html'
+    })
+    .when('/login', {
+        controller: 'LoginCtrl',
+        templateUrl: '/login.html'
     })
     .when('/favs', {
         controller: 'FavoritesCtrl',
@@ -24,21 +28,14 @@ angular.module('hackisu', ['ngRoute', 'firebase'])
         templateUrl: '/find_local.html'
     })
     .otherwise({
-        redirectTo: '/'
+        redirectTo: '/login'
     })
 })
 
-.controller('MainCtrl', function($scope, Firebase) { 
-    $scope.pnotify = function() {
-        alert($scope.currentText);
-        var opt = {
-            type: "basic",
-            title: "Primary Title",
-            message: "Primary message to display",
-            iconUrl: "url_to_small_icon"
-          }
-        chrome.notifications.create(1, opt, function() { alert('callback'); });
-    };
+.controller('MainCtrl', function($scope, Firebase) { })
+
+.controller('LoginCtrl', function($scope, Firebase) {
+    
 })
 
 .controller('FavoritesCtrl', function($scope, Firebase) {

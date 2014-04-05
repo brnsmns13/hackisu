@@ -44,9 +44,11 @@
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/cordova.js \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/cordova_plugins.js \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/favorites.html \
+/Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/find_local.html \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/index-back.html \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/index.css \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/index.html \
+/Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/login.html \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/main.html \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/manifest.json \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/manifest.mobile.json \
@@ -58,6 +60,7 @@
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/assets/controllers.js \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/assets/fastclick.js \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/assets/icons \
+/Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/assets/images \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/assets/ratchet-2.0.1 \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/assets/icons/icon114.png \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/assets/icons/icon128.png \
@@ -68,6 +71,7 @@
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/assets/icons/icon57.png \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/assets/icons/icon72.png \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/assets/icons/icon96.png \
+/Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/assets/images/stardust.png \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/assets/ratchet-2.0.1/dist \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/assets/ratchet-2.0.1/dist/css \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/assets/ratchet-2.0.1/dist/fonts \
