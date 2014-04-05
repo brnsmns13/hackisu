@@ -1,0 +1,56 @@
+<div data-ng-controller="SurveysController">
+    <h2>Add survey</h2>
+    <div class="span6">
+        <form class="form-horizontal">
+
+            <div class="control-group">
+                <label class="control-label" for="question1">Question1</label>
+                <div class="controls">
+                    <input type="text" data-ng-model="question1" id="question1" placeholder="Enter question1">
+                </div>
+            </div>
+
+            <div class="control-group">
+            <label class="control-label" for="options1">Options</label>
+            <div class="controls">
+                <input type="text" data-ng-model="options1" id="options1" placeholder="Enter options for question1">
+            </div>
+        </div>
+
+            <div class="control-group">
+            <label class="control-label" for="question2">Question2</label>
+            <div class="controls">
+                <input type="text" data-ng-model="question2" id="question2" placeholder="Enter question2">
+            </div>
+        </div>
+
+            <div class="control-group">
+            <label class="control-label" for="options2">Options</label>
+            <div class="controls">
+                <input type="text" data-ng-model="options2" id="options2" placeholder="Enter options for question2">
+            </div>
+        </div>
+
+            <div class="control-group">
+            <label class="control-label" for="question3">Question3</label>
+            <div class="controls">
+                <input type="text" data-ng-model="question3" id="question3" placeholder="Enter question3">
+            </div>
+        </div>
+
+            <div class="control-group">
+            <label class="control-label" for="options3">Options</label>
+            <div class="controls">
+                <input type="text" data-ng-model="options3" id="options3" placeholder="Enter options for question3">
+            </div>
+        </div>
+
+            <div class="control-group">
+                <div class="controls">
+                    <button class="btn btn-primary" data-ng-click="createSurvey()">Create League</button>
+                </div>
+            </div>
+        </form>
+        <p ng-show="err" class="error">{{err}}</p>
+    </div>
+</div>

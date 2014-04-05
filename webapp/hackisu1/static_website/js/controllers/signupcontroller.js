@@ -28,7 +28,7 @@ angular.module('surveyorApp.controllers.signup', [])
         else if( !$scope.pass ) {
           $scope.err = 'Please enter a password';
         }
-        else if( !$scope.businessname ) {
+        else if( !$scope.description ) {
             $scope.err = 'Please enter a business name';
         }
         else {
@@ -39,7 +39,7 @@ angular.module('surveyorApp.controllers.signup', [])
             else {
               $scope.login(function(err) {
                 if( !err ) {
-                  loginService.createProfile(user.id, $scope.name, user.email, $scope.businessname);
+                  loginService.createProfile(user.id, $scope.name, user.email, $scope.description);
                 }
               });
             }
