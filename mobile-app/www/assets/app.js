@@ -39,6 +39,14 @@ angular.module('hackisu', ['ngRoute', 'firebase'])
         controller: 'SurveyCtrl',
         templateUrl: '/views/take_survey.html'
     })
+    .when('/coupon', {
+        controller: 'CouponCtrl',
+        templateUrl: '/views/coupon.html'
+    })
+    .when('/coupon/:couponID', {
+        controller: 'CouponCtrl',
+        templateUrl: '/views/coupon.html'
+    })
     .otherwise({
         redirectTo: '/login'
     })

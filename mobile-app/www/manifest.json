@@ -1,6 +1,6 @@
 {
-  "name": "TWBS Ratchet Cordova",
-  "description": "A Sample Chrome App",
+  "name": "Surveyor",
+  "description": "Answer quick questions for local businesses and get great deals!",
   "manifest_version": 2,
   "minimum_chrome_version": "23",
   "version": "0.1.1",

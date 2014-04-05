@@ -39,6 +39,14 @@ angular.module('hackisu', ['ngRoute', 'firebase'])
         controller: 'SurveyCtrl',
         templateUrl: '/views/take_survey.html'
     })
+    .when('/coupon', {
+        controller: 'CouponCtrl',
+        templateUrl: '/views/coupon.html'
+    })
+    .when('/coupon/:couponID', {
+        controller: 'CouponCtrl',
+        templateUrl: '/views/coupon.html'
+    })
     .otherwise({
         redirectTo: '/login'
     })
@@ -50,10 +58,10 @@ angular.module('hackisu', ['ngRoute', 'firebase'])
     
 })
 
-.controller('SurveyCtrl', function($scope, Firebase) {
+.controller('SurveyCtrl', function($scope, $routeParams, $location, Firebase) {
     
     $scope.submit_survey = function() {
-        chrome.notifications.create(1, opt, function() { alert('callback'); });
+        $location.path("/main");
     }
     
     $scope.questions = [
@@ -131,7 +139,7 @@ angular.module('hackisu', ['ngRoute', 'firebase'])
     
 })
 
-.controller('FindLocalCtrl', function($scope, $routeParams, Firebase) {
+.controller('FindLocalCtrl', function($scope, $routeParams, $location, Firebase) {
     
     // Get this with firebase...
     $scope.local = [
@@ -155,8 +163,8 @@ angular.module('hackisu', ['ngRoute', 'firebase'])
         }
     ];
     
-    $scope.pushDetail = function() {
-        
+    $scope.goto_link = function(link) {
+        $location.path(link);
     }
     
     $scope.selected = false;
