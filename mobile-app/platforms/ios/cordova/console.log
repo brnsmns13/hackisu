@@ -1648,3 +1648,211 @@ objc[36631]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.a
 2014-04-05 06:04:05.453 TWBS Ratchet Cordova[36631:80b] [CDVTimer][TotalPluginStartup] 12.531996ms
 2014-04-05 06:04:05.615 TWBS Ratchet Cordova[36631:80b] Resetting plugins due to page load.
 2014-04-05 06:04:06.051 TWBS Ratchet Cordova[36631:80b] Finished load of: chrome-extension://ffgfohcpefpfaaimdnkdbnkbjlfjmckn/index.html#/login
+objc[37207]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-05 06:23:18.219 TWBS Ratchet Cordova[37207:80b] Cannot find executable for CFBundle 0xaa33830 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-05 06:23:18.237 TWBS Ratchet Cordova[37207:80b] Cannot find executable for CFBundle 0xa541340 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-05 06:23:18.321 TWBS Ratchet Cordova[37207:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 06:23:18.328 TWBS Ratchet Cordova[37207:80b] Unlimited access to network resources
+2014-04-05 06:23:18.350 TWBS Ratchet Cordova[37207:80b] [CDVTimer][keyboard] 0.151992ms
+2014-04-05 06:23:18.380 TWBS Ratchet Cordova[37207:80b] [CDVTimer][statusbar] 29.191017ms
+2014-04-05 06:23:18.380 TWBS Ratchet Cordova[37207:80b] [CDVTimer][chromenavigation] 0.043988ms
+2014-04-05 06:23:18.381 TWBS Ratchet Cordova[37207:80b] [CDVTimer][chromebootstrap] 0.054002ms
+2014-04-05 06:23:18.381 TWBS Ratchet Cordova[37207:80b] [CDVTimer][chromeextensionurls] 0.077009ms
+2014-04-05 06:23:18.382 TWBS Ratchet Cordova[37207:80b] [CDVTimer][TotalPluginStartup] 32.077968ms
+2014-04-05 06:23:18.547 TWBS Ratchet Cordova[37207:80b] Resetting plugins due to page load.
+2014-04-05 06:23:19.116 TWBS Ratchet Cordova[37207:80b] Finished load of: chrome-extension://ffgfohcpefpfaaimdnkdbnkbjlfjmckn/index.html#/login
+objc[37423]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-05 06:25:27.417 TWBS Ratchet Cordova[37423:80b] Cannot find executable for CFBundle 0xa966e80 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-05 06:25:27.433 TWBS Ratchet Cordova[37423:80b] Cannot find executable for CFBundle 0xab6b1b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-05 06:25:27.499 TWBS Ratchet Cordova[37423:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 06:25:27.509 TWBS Ratchet Cordova[37423:80b] Unlimited access to network resources
+2014-04-05 06:25:27.528 TWBS Ratchet Cordova[37423:80b] [CDVTimer][keyboard] 0.128031ms
+2014-04-05 06:25:27.539 TWBS Ratchet Cordova[37423:80b] [CDVTimer][statusbar] 10.370970ms
+2014-04-05 06:25:27.539 TWBS Ratchet Cordova[37423:80b] [CDVTimer][chromenavigation] 0.038981ms
+2014-04-05 06:25:27.540 TWBS Ratchet Cordova[37423:80b] [CDVTimer][chromebootstrap] 0.052035ms
+2014-04-05 06:25:27.540 TWBS Ratchet Cordova[37423:80b] [CDVTimer][chromeextensionurls] 0.071943ms
+2014-04-05 06:25:27.540 TWBS Ratchet Cordova[37423:80b] [CDVTimer][TotalPluginStartup] 12.821972ms
+2014-04-05 06:25:27.678 TWBS Ratchet Cordova[37423:80b] Resetting plugins due to page load.
+2014-04-05 06:25:28.085 TWBS Ratchet Cordova[37423:80b] Finished load of: chrome-extension://ffgfohcpefpfaaimdnkdbnkbjlfjmckn/index.html#/login
+objc[37632]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-05 06:25:43.904 TWBS Ratchet Cordova[37632:80b] Cannot find executable for CFBundle 0xa638120 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-05 06:25:43.922 TWBS Ratchet Cordova[37632:80b] Cannot find executable for CFBundle 0xa64bef0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-05 06:25:43.999 TWBS Ratchet Cordova[37632:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 06:25:44.010 TWBS Ratchet Cordova[37632:80b] Unlimited access to network resources
+2014-04-05 06:25:44.029 TWBS Ratchet Cordova[37632:80b] [CDVTimer][keyboard] 0.087023ms
+2014-04-05 06:25:44.040 TWBS Ratchet Cordova[37632:80b] [CDVTimer][statusbar] 10.169983ms
+2014-04-05 06:25:44.040 TWBS Ratchet Cordova[37632:80b] [CDVTimer][chromenavigation] 0.045955ms
+2014-04-05 06:25:44.041 TWBS Ratchet Cordova[37632:80b] [CDVTimer][chromebootstrap] 0.050008ms
+2014-04-05 06:25:44.041 TWBS Ratchet Cordova[37632:80b] [CDVTimer][chromeextensionurls] 0.072956ms
+2014-04-05 06:25:44.042 TWBS Ratchet Cordova[37632:80b] [CDVTimer][TotalPluginStartup] 12.639999ms
+2014-04-05 06:25:44.196 TWBS Ratchet Cordova[37632:80b] Resetting plugins due to page load.
+2014-04-05 06:25:44.641 TWBS Ratchet Cordova[37632:80b] Finished load of: chrome-extension://ffgfohcpefpfaaimdnkdbnkbjlfjmckn/index.html#/login
+objc[37858]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-05 06:32:47.757 TWBS Ratchet Cordova[37858:80b] Cannot find executable for CFBundle 0xa72c510 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-05 06:32:47.762 TWBS Ratchet Cordova[37858:80b] Cannot find executable for CFBundle 0xa731fd0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-05 06:32:47.825 TWBS Ratchet Cordova[37858:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 06:32:47.835 TWBS Ratchet Cordova[37858:80b] Unlimited access to network resources
+2014-04-05 06:32:47.853 TWBS Ratchet Cordova[37858:80b] [CDVTimer][keyboard] 0.133991ms
+2014-04-05 06:32:47.862 TWBS Ratchet Cordova[37858:80b] [CDVTimer][statusbar] 8.844018ms
+2014-04-05 06:32:47.863 TWBS Ratchet Cordova[37858:80b] [CDVTimer][chromenavigation] 0.041008ms
+2014-04-05 06:32:47.863 TWBS Ratchet Cordova[37858:80b] [CDVTimer][chromebootstrap] 0.051022ms
+2014-04-05 06:32:47.863 TWBS Ratchet Cordova[37858:80b] [CDVTimer][chromeextensionurls] 0.081956ms
+2014-04-05 06:32:47.864 TWBS Ratchet Cordova[37858:80b] [CDVTimer][TotalPluginStartup] 11.307001ms
+2014-04-05 06:32:47.983 TWBS Ratchet Cordova[37858:80b] Resetting plugins due to page load.
+2014-04-05 06:32:48.417 TWBS Ratchet Cordova[37858:80b] Finished load of: chrome-extension://ffgfohcpefpfaaimdnkdbnkbjlfjmckn/index.html#/login
+objc[38071]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-05 06:33:47.857 TWBS Ratchet Cordova[38071:80b] Cannot find executable for CFBundle 0xa582c40 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-05 06:33:47.873 TWBS Ratchet Cordova[38071:80b] Cannot find executable for CFBundle 0xa7b3e10 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-05 06:33:47.951 TWBS Ratchet Cordova[38071:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 06:33:47.961 TWBS Ratchet Cordova[38071:80b] Unlimited access to network resources
+2014-04-05 06:33:47.985 TWBS Ratchet Cordova[38071:80b] [CDVTimer][keyboard] 0.127017ms
+2014-04-05 06:33:47.995 TWBS Ratchet Cordova[38071:80b] [CDVTimer][statusbar] 10.147989ms
+2014-04-05 06:33:47.996 TWBS Ratchet Cordova[38071:80b] [CDVTimer][chromenavigation] 0.043035ms
+2014-04-05 06:33:47.997 TWBS Ratchet Cordova[38071:80b] [CDVTimer][chromebootstrap] 0.049055ms
+2014-04-05 06:33:47.997 TWBS Ratchet Cordova[38071:80b] [CDVTimer][chromeextensionurls] 0.070035ms
+2014-04-05 06:33:47.997 TWBS Ratchet Cordova[38071:80b] [CDVTimer][TotalPluginStartup] 12.735009ms
+2014-04-05 06:33:48.147 TWBS Ratchet Cordova[38071:80b] Resetting plugins due to page load.
+2014-04-05 06:33:48.957 TWBS Ratchet Cordova[38071:80b] Finished load of: chrome-extension://ffgfohcpefpfaaimdnkdbnkbjlfjmckn/index.html#/login
+objc[38298]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-05 06:35:45.737 TWBS Ratchet Cordova[38298:80b] Cannot find executable for CFBundle 0xa65b1b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-05 06:35:45.768 TWBS Ratchet Cordova[38298:80b] Cannot find executable for CFBundle 0xa98bdc0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-05 06:35:45.830 TWBS Ratchet Cordova[38298:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 06:35:45.837 TWBS Ratchet Cordova[38298:80b] Unlimited access to network resources
+2014-04-05 06:35:45.866 TWBS Ratchet Cordova[38298:80b] [CDVTimer][keyboard] 0.117958ms
+2014-04-05 06:35:45.878 TWBS Ratchet Cordova[38298:80b] [CDVTimer][statusbar] 11.610985ms
+2014-04-05 06:35:45.878 TWBS Ratchet Cordova[38298:80b] [CDVTimer][chromenavigation] 0.041962ms
+2014-04-05 06:35:45.879 TWBS Ratchet Cordova[38298:80b] [CDVTimer][chromebootstrap] 0.050008ms
+2014-04-05 06:35:45.879 TWBS Ratchet Cordova[38298:80b] [CDVTimer][chromeextensionurls] 0.073969ms
+2014-04-05 06:35:45.880 TWBS Ratchet Cordova[38298:80b] [CDVTimer][TotalPluginStartup] 14.412999ms
+2014-04-05 06:35:46.012 TWBS Ratchet Cordova[38298:80b] Resetting plugins due to page load.
+2014-04-05 06:35:46.511 TWBS Ratchet Cordova[38298:80b] Finished load of: chrome-extension://ffgfohcpefpfaaimdnkdbnkbjlfjmckn/index.html#/login
+objc[38567]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-05 06:49:50.935 TWBS Ratchet Cordova[38567:80b] Cannot find executable for CFBundle 0xa62a5b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-05 06:49:50.948 TWBS Ratchet Cordova[38567:80b] Cannot find executable for CFBundle 0xab6b020 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-05 06:49:51.020 TWBS Ratchet Cordova[38567:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 06:49:51.030 TWBS Ratchet Cordova[38567:80b] Unlimited access to network resources
+2014-04-05 06:49:51.050 TWBS Ratchet Cordova[38567:80b] [CDVTimer][keyboard] 0.102997ms
+2014-04-05 06:49:51.060 TWBS Ratchet Cordova[38567:80b] [CDVTimer][statusbar] 9.983003ms
+2014-04-05 06:49:51.061 TWBS Ratchet Cordova[38567:80b] [CDVTimer][chromenavigation] 0.037968ms
+2014-04-05 06:49:51.061 TWBS Ratchet Cordova[38567:80b] [CDVTimer][chromebootstrap] 0.036001ms
+2014-04-05 06:49:51.062 TWBS Ratchet Cordova[38567:80b] [CDVTimer][chromeextensionurls] 0.072002ms
+2014-04-05 06:49:51.062 TWBS Ratchet Cordova[38567:80b] [CDVTimer][TotalPluginStartup] 12.179971ms
+2014-04-05 06:49:51.212 TWBS Ratchet Cordova[38567:80b] Resetting plugins due to page load.
+2014-04-05 06:49:51.942 TWBS Ratchet Cordova[38567:80b] Finished load of: chrome-extension://ffgfohcpefpfaaimdnkdbnkbjlfjmckn/index.html#/login
+objc[38788]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-05 06:52:53.983 TWBS Ratchet Cordova[38788:80b] Cannot find executable for CFBundle 0xa57c4a0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-05 06:52:54.004 TWBS Ratchet Cordova[38788:80b] Cannot find executable for CFBundle 0xa79a8e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-05 06:52:54.057 TWBS Ratchet Cordova[38788:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 06:52:54.065 TWBS Ratchet Cordova[38788:80b] Unlimited access to network resources
+2014-04-05 06:52:54.097 TWBS Ratchet Cordova[38788:80b] [CDVTimer][keyboard] 0.120997ms
+2014-04-05 06:52:54.106 TWBS Ratchet Cordova[38788:80b] [CDVTimer][statusbar] 8.543015ms
+2014-04-05 06:52:54.107 TWBS Ratchet Cordova[38788:80b] [CDVTimer][chromenavigation] 0.043988ms
+2014-04-05 06:52:54.107 TWBS Ratchet Cordova[38788:80b] [CDVTimer][chromebootstrap] 0.050962ms
+2014-04-05 06:52:54.108 TWBS Ratchet Cordova[38788:80b] [CDVTimer][chromeextensionurls] 0.069976ms
+2014-04-05 06:52:54.108 TWBS Ratchet Cordova[38788:80b] [CDVTimer][TotalPluginStartup] 10.795951ms
+2014-04-05 06:52:54.200 TWBS Ratchet Cordova[38788:80b] Resetting plugins due to page load.
+2014-04-05 06:52:55.050 TWBS Ratchet Cordova[38788:80b] Finished load of: chrome-extension://ffgfohcpefpfaaimdnkdbnkbjlfjmckn/index.html#/login
+objc[38999]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-05 06:53:33.853 TWBS Ratchet Cordova[38999:80b] Cannot find executable for CFBundle 0xa979520 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-05 06:53:33.864 TWBS Ratchet Cordova[38999:80b] Cannot find executable for CFBundle 0xa98c1a0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-05 06:53:33.936 TWBS Ratchet Cordova[38999:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 06:53:33.944 TWBS Ratchet Cordova[38999:80b] Unlimited access to network resources
+2014-04-05 06:53:33.973 TWBS Ratchet Cordova[38999:80b] [CDVTimer][keyboard] 0.128031ms
+2014-04-05 06:53:33.984 TWBS Ratchet Cordova[38999:80b] [CDVTimer][statusbar] 10.435998ms
+2014-04-05 06:53:33.985 TWBS Ratchet Cordova[38999:80b] [CDVTimer][chromenavigation] 0.045002ms
+2014-04-05 06:53:33.985 TWBS Ratchet Cordova[38999:80b] [CDVTimer][chromebootstrap] 0.054002ms
+2014-04-05 06:53:33.986 TWBS Ratchet Cordova[38999:80b] [CDVTimer][chromeextensionurls] 0.077963ms
+2014-04-05 06:53:33.986 TWBS Ratchet Cordova[38999:80b] [CDVTimer][TotalPluginStartup] 13.209045ms
+2014-04-05 06:53:34.087 TWBS Ratchet Cordova[38999:80b] Resetting plugins due to page load.
+2014-04-05 06:53:34.867 TWBS Ratchet Cordova[38999:80b] Finished load of: chrome-extension://ffgfohcpefpfaaimdnkdbnkbjlfjmckn/index.html#/login
+objc[39216]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-05 06:54:55.310 TWBS Ratchet Cordova[39216:80b] Cannot find executable for CFBundle 0xa4893d0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-05 06:54:55.326 TWBS Ratchet Cordova[39216:80b] Cannot find executable for CFBundle 0xa975b40 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-05 06:54:55.389 TWBS Ratchet Cordova[39216:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 06:54:55.400 TWBS Ratchet Cordova[39216:80b] Unlimited access to network resources
+2014-04-05 06:54:55.421 TWBS Ratchet Cordova[39216:80b] [CDVTimer][keyboard] 0.083983ms
+2014-04-05 06:54:55.431 TWBS Ratchet Cordova[39216:80b] [CDVTimer][statusbar] 10.159969ms
+2014-04-05 06:54:55.432 TWBS Ratchet Cordova[39216:80b] [CDVTimer][chromenavigation] 0.034988ms
+2014-04-05 06:54:55.432 TWBS Ratchet Cordova[39216:80b] [CDVTimer][chromebootstrap] 0.052989ms
+2014-04-05 06:54:55.433 TWBS Ratchet Cordova[39216:80b] [CDVTimer][chromeextensionurls] 0.065029ms
+2014-04-05 06:54:55.433 TWBS Ratchet Cordova[39216:80b] [CDVTimer][TotalPluginStartup] 12.356043ms
+2014-04-05 06:54:55.578 TWBS Ratchet Cordova[39216:80b] Resetting plugins due to page load.
+2014-04-05 06:54:56.018 TWBS Ratchet Cordova[39216:80b] Finished load of: chrome-extension://ffgfohcpefpfaaimdnkdbnkbjlfjmckn/index.html#/login
+objc[39431]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-05 06:56:16.378 TWBS Ratchet Cordova[39431:80b] Cannot find executable for CFBundle 0xa49c4b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-05 06:56:16.401 TWBS Ratchet Cordova[39431:80b] Cannot find executable for CFBundle 0xa4a3c80 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-05 06:56:16.459 TWBS Ratchet Cordova[39431:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 06:56:16.466 TWBS Ratchet Cordova[39431:80b] Unlimited access to network resources
+2014-04-05 06:56:16.504 TWBS Ratchet Cordova[39431:80b] [CDVTimer][keyboard] 0.133991ms
+2014-04-05 06:56:16.515 TWBS Ratchet Cordova[39431:80b] [CDVTimer][statusbar] 10.798037ms
+2014-04-05 06:56:16.516 TWBS Ratchet Cordova[39431:80b] [CDVTimer][chromenavigation] 0.045002ms
+2014-04-05 06:56:16.516 TWBS Ratchet Cordova[39431:80b] [CDVTimer][chromebootstrap] 0.059009ms
+2014-04-05 06:56:16.517 TWBS Ratchet Cordova[39431:80b] [CDVTimer][chromeextensionurls] 0.076950ms
+2014-04-05 06:56:16.517 TWBS Ratchet Cordova[39431:80b] [CDVTimer][TotalPluginStartup] 13.562977ms
+2014-04-05 06:56:16.673 TWBS Ratchet Cordova[39431:80b] Resetting plugins due to page load.
+2014-04-05 06:56:17.438 TWBS Ratchet Cordova[39431:80b] Finished load of: chrome-extension://ffgfohcpefpfaaimdnkdbnkbjlfjmckn/index.html#/login
+objc[39645]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-05 06:57:39.075 TWBS Ratchet Cordova[39645:80b] Cannot find executable for CFBundle 0xa45a3a0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-05 06:57:39.091 TWBS Ratchet Cordova[39645:80b] Cannot find executable for CFBundle 0xa56a810 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-05 06:57:39.169 TWBS Ratchet Cordova[39645:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 06:57:39.179 TWBS Ratchet Cordova[39645:80b] Unlimited access to network resources
+2014-04-05 06:57:39.201 TWBS Ratchet Cordova[39645:80b] [CDVTimer][keyboard] 0.129998ms
+2014-04-05 06:57:39.213 TWBS Ratchet Cordova[39645:80b] [CDVTimer][statusbar] 11.092961ms
+2014-04-05 06:57:39.213 TWBS Ratchet Cordova[39645:80b] [CDVTimer][chromenavigation] 0.042975ms
+2014-04-05 06:57:39.213 TWBS Ratchet Cordova[39645:80b] [CDVTimer][chromebootstrap] 0.053942ms
+2014-04-05 06:57:39.214 TWBS Ratchet Cordova[39645:80b] [CDVTimer][chromeextensionurls] 0.084043ms
+2014-04-05 06:57:39.214 TWBS Ratchet Cordova[39645:80b] [CDVTimer][TotalPluginStartup] 13.599038ms
+2014-04-05 06:57:39.353 TWBS Ratchet Cordova[39645:80b] Resetting plugins due to page load.
+2014-04-05 06:57:41.090 TWBS Ratchet Cordova[39645:80b] Finished load of: chrome-extension://ffgfohcpefpfaaimdnkdbnkbjlfjmckn/index.html#/login
+objc[39861]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-05 06:59:24.848 TWBS Ratchet Cordova[39861:80b] Cannot find executable for CFBundle 0xa52c290 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-05 06:59:24.872 TWBS Ratchet Cordova[39861:80b] Cannot find executable for CFBundle 0xa73bcd0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-05 06:59:24.934 TWBS Ratchet Cordova[39861:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 06:59:24.944 TWBS Ratchet Cordova[39861:80b] Unlimited access to network resources
+2014-04-05 06:59:24.966 TWBS Ratchet Cordova[39861:80b] [CDVTimer][keyboard] 0.129998ms
+2014-04-05 06:59:24.977 TWBS Ratchet Cordova[39861:80b] [CDVTimer][statusbar] 10.697007ms
+2014-04-05 06:59:24.978 TWBS Ratchet Cordova[39861:80b] [CDVTimer][chromenavigation] 0.044048ms
+2014-04-05 06:59:24.978 TWBS Ratchet Cordova[39861:80b] [CDVTimer][chromebootstrap] 0.051022ms
+2014-04-05 06:59:24.979 TWBS Ratchet Cordova[39861:80b] [CDVTimer][chromeextensionurls] 0.070989ms
+2014-04-05 06:59:24.979 TWBS Ratchet Cordova[39861:80b] [CDVTimer][TotalPluginStartup] 13.366044ms
+2014-04-05 06:59:25.123 TWBS Ratchet Cordova[39861:80b] Resetting plugins due to page load.
+2014-04-05 06:59:25.936 TWBS Ratchet Cordova[39861:80b] Finished load of: chrome-extension://ffgfohcpefpfaaimdnkdbnkbjlfjmckn/index.html#/login
+objc[40072]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-05 07:00:23.003 TWBS Ratchet Cordova[40072:80b] Cannot find executable for CFBundle 0xa62cb00 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-05 07:00:23.027 TWBS Ratchet Cordova[40072:80b] Cannot find executable for CFBundle 0xa724e00 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-05 07:00:23.080 TWBS Ratchet Cordova[40072:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 07:00:23.089 TWBS Ratchet Cordova[40072:80b] Unlimited access to network resources
+2014-04-05 07:00:23.141 TWBS Ratchet Cordova[40072:80b] [CDVTimer][keyboard] 0.122011ms
+2014-04-05 07:00:23.152 TWBS Ratchet Cordova[40072:80b] [CDVTimer][statusbar] 10.559976ms
+2014-04-05 07:00:23.152 TWBS Ratchet Cordova[40072:80b] [CDVTimer][chromenavigation] 0.042975ms
+2014-04-05 07:00:23.153 TWBS Ratchet Cordova[40072:80b] [CDVTimer][chromebootstrap] 0.050008ms
+2014-04-05 07:00:23.153 TWBS Ratchet Cordova[40072:80b] [CDVTimer][chromeextensionurls] 0.070035ms
+2014-04-05 07:00:23.154 TWBS Ratchet Cordova[40072:80b] [CDVTimer][TotalPluginStartup] 13.107002ms
+2014-04-05 07:00:23.294 TWBS Ratchet Cordova[40072:80b] Resetting plugins due to page load.
+2014-04-05 07:00:23.845 TWBS Ratchet Cordova[40072:80b] Finished load of: chrome-extension://ffgfohcpefpfaaimdnkdbnkbjlfjmckn/index.html#/login
+objc[40291]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-05 07:05:56.550 TWBS Ratchet Cordova[40291:80b] Cannot find executable for CFBundle 0xab6f7b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-05 07:05:56.569 TWBS Ratchet Cordova[40291:80b] Cannot find executable for CFBundle 0xa494740 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-05 07:05:56.648 TWBS Ratchet Cordova[40291:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 07:05:56.656 TWBS Ratchet Cordova[40291:80b] Unlimited access to network resources
+2014-04-05 07:05:56.674 TWBS Ratchet Cordova[40291:80b] [CDVTimer][keyboard] 0.087976ms
+2014-04-05 07:05:56.683 TWBS Ratchet Cordova[40291:80b] [CDVTimer][statusbar] 8.799970ms
+2014-04-05 07:05:56.684 TWBS Ratchet Cordova[40291:80b] [CDVTimer][chromenavigation] 0.042021ms
+2014-04-05 07:05:56.684 TWBS Ratchet Cordova[40291:80b] [CDVTimer][chromebootstrap] 0.051975ms
+2014-04-05 07:05:56.685 TWBS Ratchet Cordova[40291:80b] [CDVTimer][chromeextensionurls] 0.068009ms
+2014-04-05 07:05:56.685 TWBS Ratchet Cordova[40291:80b] [CDVTimer][TotalPluginStartup] 11.129022ms
+2014-04-05 07:05:56.804 TWBS Ratchet Cordova[40291:80b] Resetting plugins due to page load.
+2014-04-05 07:05:57.243 TWBS Ratchet Cordova[40291:80b] Finished load of: chrome-extension://ffgfohcpefpfaaimdnkdbnkbjlfjmckn/index.html#/login
+objc[40504]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-05 07:07:07.983 TWBS Ratchet Cordova[40504:80b] Cannot find executable for CFBundle 0xa57ee00 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-05 07:07:08.001 TWBS Ratchet Cordova[40504:80b] Cannot find executable for CFBundle 0xab51b50 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-05 07:07:08.069 TWBS Ratchet Cordova[40504:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 07:07:08.076 TWBS Ratchet Cordova[40504:80b] Unlimited access to network resources
+2014-04-05 07:07:08.095 TWBS Ratchet Cordova[40504:80b] [CDVTimer][keyboard] 0.127971ms
+2014-04-05 07:07:08.105 TWBS Ratchet Cordova[40504:80b] [CDVTimer][statusbar] 9.737968ms
+2014-04-05 07:07:08.106 TWBS Ratchet Cordova[40504:80b] [CDVTimer][chromenavigation] 0.043988ms
+2014-04-05 07:07:08.106 TWBS Ratchet Cordova[40504:80b] [CDVTimer][chromebootstrap] 0.050962ms
+2014-04-05 07:07:08.108 TWBS Ratchet Cordova[40504:80b] [CDVTimer][chromeextensionurls] 0.091970ms
+2014-04-05 07:07:08.109 TWBS Ratchet Cordova[40504:80b] [CDVTimer][TotalPluginStartup] 14.672995ms
+2014-04-05 07:07:08.217 TWBS Ratchet Cordova[40504:80b] Resetting plugins due to page load.
+2014-04-05 07:07:08.985 TWBS Ratchet Cordova[40504:80b] Finished load of: chrome-extension://ffgfohcpefpfaaimdnkdbnkbjlfjmckn/index.html#/login

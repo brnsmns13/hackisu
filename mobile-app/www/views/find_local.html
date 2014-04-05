@@ -8,7 +8,7 @@
     <ul ng-if="!selected" class="table-view">
         <!-- Get the users favorites from firebase -->
         <li ng-repeat="bus in local" class="table-view-cell media">
-            <a href="#/find_local/1" class="navigate-right">
+            <a ng-click="goto_link('/find_local/' + bus.business_id)" class="navigate-right"> 
                 <img class="media-object pull-left" src="http://placehold.it/42x42">
                 <div class="media-body">
                     <h3>{{bus.name}}</h3>
@@ -24,6 +24,7 @@
                 width: 100%;
             }
             #business-name {
+                padding-top: 20px;
                 text-align: center;
                 width: 100%;
             }
@@ -37,7 +38,7 @@
         <h1 id="header-survey">Surveys</h1>
         <ul class="table-view">
             <li ng-repeat="survey in surveys" class="table-view-cell media">
-                <a href="#/survey/0">
+                <a ng-click="goto_link('/survey/' + survey.survey_id)">
                     {{survey.name}}
                     <span class="badge">{{survey.questions.length}}</span>
                 </a>

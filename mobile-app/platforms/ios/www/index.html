@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html ng-app="hackisu">
+    <head>
+        <meta charset="utf-8">
+        <title>Ratchet template page</title>
+        <!-- Sets initial viewport load and disables zooming  -->
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+        <!-- Makes your prototype chrome-less once bookmarked to your phone's home screen -->
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <!-- Include Firebase and Angularjs -->
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0-beta.5/angular.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0-beta.5/angular-resource.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0-beta.5/angular-route.min.js"></script>
+        <script src="https://cdn.firebase.com/v0/firebase.js"></script>
+        <script src="https://cdn.firebase.com/libs/angularfire/0.5.0/angularfire.min.js"></script>
+        <!-- Include the compiled Ratchet CSS -->
+        <link href="assets/ratchet-2.0.1/dist/css/ratchet.css" rel="stylesheet">
+        <!-- Include the compiled Ratchet JS -->
+        <script src="assets/ratchet-2.0.1/dist/js/ratchet.js"></script>
+        <script src="assets/fastclick.js"></script>
+        <script src="assets/app.js"></script>
+    </head>
+    <body>
+        <div ng-view></div>
+    </body>
+</html>
