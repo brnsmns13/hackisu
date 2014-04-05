@@ -1,0 +1,27 @@
+{
+  "name": "surveyor",
+  "version": "0.0.0",
+  "description": "surveyor app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brnsmns13/hackisu"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "prash",
+  "license": "(BSD-2-Clause) MIT",
+  "bugs": {
+    "url": "https://github.com/brnsmns13/hackisu/issues"
+  },
+  "homepage": "https://github.com/brnsmns13/hackisu",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^3.5.1"
+  }
+}
