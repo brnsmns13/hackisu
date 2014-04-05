@@ -13,6 +13,10 @@ handlers:
   static_files: static_website/index.html
   upload: static_website/index.html
 
+- url: /dashboard
+  static_files: static_website/dashboard.html
+  upload: static_website/dashboard.html
+
 libraries:
 - name: webapp2
   version: "2.5.2"

@@ -1,0 +1,93 @@
+<html>
+	<head>
+		<title>Analytics</title>
+
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<!-- Vendor scripts and styles -->
+		<script src="../vend/jquery.min.js"></script>
+		<script src="../vend/bootstrap/js/bootstrap.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="../vend/bootstrap/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="../vend/bootstrap/css/bootstrap-theme.min.css">
+
+		<link rel="stylesheet" type="text/css" href="../styles/styles.css">
+		<style>
+			.not-round {
+				border-bottom-right-radius: 0px !important;
+				border-bottom-left-radius: 0px !important;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="header">
+			<h1>Scheduler</h1>
+		</div>
+		<ol class="breadcrumb">
+			<li><a href="#">Dashboard</a></li>
+			<li class="active">My Survey About Stuff</li>
+		</ol>
+
+		<div style="margin: 10px">
+			<div class="input-group input-group-md">
+				<span class="input-group-addon">Start Date</span>
+				<span class="list-group-item not-round">8/10/2010</span>
+			</div>
+			<div class="input-group input-group-md">
+				<span class="input-group-addon">End Date</span>
+				<span class="list-group-item not-round">8/24/2010</span>
+			</div>
+		</div>
+
+		<div id="content">
+			<div class="row-fluid section-header">
+				<div class="col-md-12">
+					<h3 style="float: left; margin: 2px">1. What is your favorite Color?</h3>
+				</div>
+			</div>
+
+			<div class="row-fluid">
+				<div class="col-md-6">
+					<div class="inset">
+						<table class="table table-hover">
+							<thead>
+								<tr>
+									<th>#</th>
+									<th>Choice</th>
+									<th>Answers</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>0</td>
+									<td>Red</td>
+									<td>21</td>
+								</tr>
+								<tr>
+									<td>1</td>
+									<td>Green</td>
+									<td>15</td>
+								</tr>
+								<tr>
+									<td>2</td>
+									<td>Blue</td>
+									<td>27</td>
+								</tr>
+								<tr>
+									<td>3</td>
+									<td>Yellow</td>
+									<td>19</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<ul class="nav nav-tabs">
+						<li class="active"><a href="#">Bar Chart</a></li>
+						<li><a href="#">Pie Chart</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
