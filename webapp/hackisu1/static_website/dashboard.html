@@ -2,24 +2,79 @@
 	<head>
 		<title>Dashboard</title>
 
-		<!-- Vendor scripts and styles -->
-		<script src="vend/jquery.min.js"></script>
-		<script src="vend/bootstrap/js/bootstrap.min.js"></script>
-		<style src="vend/bootstrap/css/bootstrap.min.css"></style>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<!-- Page-specific scripts and styles -->
-		<script src="scripts/dashboard.js"></script>
+		<!-- Vendor scripts and styles -->
+		<script src="../vend/jquery.min.js"></script>
+		<script src="../vend/bootstrap/js/bootstrap.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="../vend/bootstrap/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="../vend/bootstrap/css/bootstrap-theme.min.css">
+
+		<style>
+			.redBorder {
+				border-style: solid;
+				border-width: 1px;
+				border-color: red;
+			}
+		</style>
 	</head>
 	<body>
 		<div id="header">
 			<!-- Same header at the top of each page -->
 		</div>
+
 		<div id="content">
-			<div id="table-header">
-				<h4>Surveys</h4>
-			</div>
-			<div id="table-body">
-				
+			<div class="row-fluid">
+				<div class="row-fluid" style="margin: 15px 15px 0px 15px">
+					<div style="overflow: hidden">
+						<h2 style="float: left; margin: 3px">Surveys</h4>
+						<button style="float: right" class="btn btn-primary">
+							<i class="glyphicon glyphicon-plus"></i> New Survey
+						</button>
+					</div>
+				</div>
+				<!--
+				<div class="row-fluid" style="padding: 5px">
+					<div class="span12">
+						<hr style="margin: 0px" />
+					</div>
+				</div>
+			-->
+				<div class="row-fluid">
+					<div class="col-md-12">
+						<div class="row-fluid">
+							<div class="col-md-6">
+								<strong>Survey Name</strong>
+							</div>
+							<div class="col-md-2">
+								<strong>Start</strong>
+							</div>
+							<div class="col-md-2">
+								<strong>End</strong>
+							</div>
+							<div class="col-md-2">
+								<strong>Answers</strong>
+							</div>
+						</div>
+
+						<!-- Sample Row -->
+						<div class="row-fluid">
+							<div class="col-md-6">
+								My Survey About Stuff
+							</div>
+							<div class="col-md-2">
+								8/10/2010
+							</div>
+							<div class="col-md-2">
+								8/24/2010
+							</div>
+							<div class="col-md-2">
+								46
+							</div>
+						</div>
+
+					</div>
+				</div>
 			</div>
 		</div>
 	</body>
