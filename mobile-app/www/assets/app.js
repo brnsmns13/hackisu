@@ -96,8 +96,12 @@ angular.module('hackisu', ['ngRoute', 'firebase'])
 })
 
 .controller('CouponCtrl', function($scope, $routeParams, $location, Firebase) {
+    $scope.goto_link = function(link) {
+        $location.path(link.toString().trim());
+    }
     if($routeParams.couponID != null) {
         $scope.selected = true;
+        document.getElementById("back-link").href = "#/coupon"
         // Get from firebase
         $scope.coupon = {
             business_name: "Business 1",

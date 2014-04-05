@@ -35,15 +35,5 @@
         </style>
         <h1 id="coupon-name">{{coupon.business_name}}</h1>
         <p id="coupon-description">{{coupon.description}}</p>
-        <h1 id="header-survey">Surveys</h1>
-        <ul class="table-view">
-            <li ng-repeat="survey in surveys" class="table-view-cell media">
-                <a ng-click="goto_link('/survey/' + survey.survey_id)">
-                    {{survey.name}}
-                    <span class="badge">{{survey.questions.length}}</span>
-                </a>
-            </li>
-        </ul>
-        
     </div>
 </div>

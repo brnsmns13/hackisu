@@ -147,6 +147,7 @@
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/plugins/org.chromium.runtime/lib/CryptoJS/enc-base64-min.js \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/plugins/org.chromium.runtime/lib/CryptoJS/sha256.js \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/plugins/org.chromium.storage/storage.js \
+/Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/views/business.html \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/views/coupon.html \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/views/favorites.html \
 /Users/briansimons/Documents/Projects/school/hackisu/mobile-app/platforms/android/assets/www/views/find_local.html \
