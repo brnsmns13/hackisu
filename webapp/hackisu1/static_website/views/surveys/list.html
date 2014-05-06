@@ -1,5 +1,30 @@
-<div data-ng-controller="SurveysController">
+<div data-ng-controller="SurveysController" data-ng-init="findSurveys()">
     <h2>Your Surveys</h2>
+    <button type="submit" class="btn btn-primary" ng-click="removeSurvey(searchText)">Delete all survey</button> <br/>
+
+    <table data-ng-repeat="survey in surveys | filter:{company_id:searchText}" class="table table-striped" width="647">
+        <tr>
+            <td>{{survey.questions[0].q_str}}</td>
+            <td>{{survey.questions[0].answers[0]}}</td>
+            <td>{{survey.questions[0].answers[1]}}</td>
+            <td>{{survey.questions[0].answers[2]}}</td>
+        </tr>
+        <tr>
+            <td>{{survey.questions[1].q_str}}</td>
+            <td>{{survey.questions[1].answers[0]}}</td>
+            <td>{{survey.questions[1].answers[1]}}</td>
+            <td>{{survey.questions[1].answers[2]}}</td>
+        </tr>
+        <tr>
+            <td>{{survey.questions[2].q_str}}</td>
+            <td>{{survey.questions[2].answers[0]}}</td>
+            <td>{{survey.questions[2].answers[1]}}</td>
+            <td>{{survey.questions[2].answers[2]}}</td>
+        </tr>
+        <tr>
+
+        </tr>
+    </table>
 
 </div>
 
