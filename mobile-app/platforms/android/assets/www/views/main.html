@@ -1,8 +1,10 @@
 
 <!-- Make sure all your bars are the first things in your <body> -->
 <header class="bar bar-nav">
-    <span class="icon icon-bars pull-left"></span>
-    <h1 class="title">Surveyor</h1>
+    <a href="#/login">
+        <span class="icon icon-close pull-left"></span>
+    </a>
+    <h1 class="title">Slingshot</h1>
     <span class="icon icon-gear pull-right"></span>
 </header>
 <!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
@@ -15,7 +17,7 @@
             </a>
         </li>
         <li class="table-view-cell">
-            <a class="navigate-right" href="#/find_local" data-transition="slide-in">
+            <a ng-click="gotoview('business')" class="navigate-right" data-transition="slide-in">
                 <span class="icon icon-home"></span>
                 Find Local Businesses
             </a>
@@ -27,5 +29,6 @@
             </a>
         </li> 
     </ul>
-    <p>{{user}}</p>
+    <button ng-click="gotoview('business')" class="btn btn-positive btn-block">Take Surveys</button>
+    <button ng-click="gotoview('business')" class="btn btn-primary btn-block">Block button</button>
 </div>

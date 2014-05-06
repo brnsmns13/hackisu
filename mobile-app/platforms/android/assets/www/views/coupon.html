@@ -8,7 +8,7 @@
     <ul ng-if="!selected" class="table-view">
         <!-- Get the users favorites from firebase -->
         <li ng-repeat="c in coupons" class="table-view-cell">
-            <a ng-click="goto_link('/coupon/' + c.code)" class="navigate-right"> 
+            <a ng-click="goto_link('/coupon/' + c.code.toString())" class="navigate-right"> 
                 <img class="media-object pull-left" src="http://placehold.it/42x42">
                 <div class="media-body">
                     <h3>{{c.business_name}}</h3>
@@ -30,12 +30,12 @@
                 width: 100%;
             }
             #coupon-description {
-                padding-left: 10px;
-                padding-right: 10px;
+                width: 100%;
+                text-align: center;
             }
         </style>
         <h1 id="coupon-name">{{coupon.business_name}}</h1>
-        <h3 id="coupon-description">{{coupon.discount}}</h3>
+        <p id="coupon-description">{{coupon.discount}}</p>
         <h1 id="c-code">{{coupon.code}}</h1>
     </div>
 </div>

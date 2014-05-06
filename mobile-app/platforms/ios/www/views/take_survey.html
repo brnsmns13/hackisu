@@ -1,33 +1,46 @@
-<!-- Make sure all your bars are the first things in your <body> -->
-<header class="bar bar-nav">
-    <a id="back-link" class="icon icon-left-nav pull-left" href="#/find_local" data-transition="slide-out"></a>
-    <h1 class="title">Survey</h1>
-</header>
+
 <!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
 <div class="content" ng-controller="SurveyCtrl">
+    
+    <div class="bar bar-standard bar-footer">
+        <button ng-show="answering" ng-click="next_question()" class="btn btn-positive btn-block">Next</button>
+        <button ng-show="!answering" ng-click="submit_survey()" class="btn btn-primary btn-block">Finish</button>
+    </div>
+    
     <style>
-        #submit-survey {
-            margin: auto;
-            width: 80%;
+        .answer {
+            margin: 10px 5px;
+            position: relative;
+            display: block;
+            padding: 10px;
+            font-size: 18px;
+            color: #333;
+            text-align: center;
+            white-space: nowrap;
+            vertical-align: top;
+            cursor: pointer;
+            background-color: white;
+            border: 1px solid #428bca;
+            border-radius: 3px;
         }
-        .segmented-control {
-            width: 100%;
-            margin: auto;
+        .answer-selected {
+            background-color: #428bca;
+            color: #eee;
         }
     </style>
-    <div class="card">
-        <ul class="table-view">
-            <!-- Get the users favorites from firebase -->
-            <li ng-repeat="q in survey.questions" class="table-view-cell">
-                <h3>{{q.q_str}}</h3>
-                <div class="segmented-control">
-                    <a ng-click="q.response[$index]" ng-repeat="a in q.answers" class="control-item">
-                        {{a}}
-                    </a>
-                </div>
-            </li>
-        </ul>
+    <div class="content-padded">
+        <div ng-if="answering">
+            <h3>{{current_question.question}}</h3>
+            <div ng-repeat="a in current_question.answers">
+                <div ng-click="select(a)" ng-class="itemClass(a)" class="answer">{{a}}</div>
+            </div>
+        </div>
+        <div ng-if="!answering">
+            <h2>That's it.</h2>
+            <hr>
+            <p class="lead">{{survey.reward.description}}</p>
+            <h3 style="text-align: center">Code</h3>
+            <h4 style="text-align: center">{{survey.reward.code}}</h4>
+        </div>
     </div>
-    <button ng-click="submit_survey(survey)" id="submit-survey" class="btn btn-positive btn-block">Submit</button>
-    <p>{{user_id}}</p>
 </div>

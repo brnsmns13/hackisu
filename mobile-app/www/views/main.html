@@ -1,32 +1,16 @@
 
 <!-- Make sure all your bars are the first things in your <body> -->
 <header class="bar bar-nav">
-    <a href="#/login">
+    <a>
         <span class="icon icon-close pull-left"></span>
     </a>
-    <h1 class="title">Surveyor</h1>
+    <h1 class="title">Slingshot</h1>
     <span class="icon icon-gear pull-right"></span>
 </header>
 <!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
 <div class="content" ng-controller="MainCtrl">
-    <ul class="table-view">
-        <li class="table-view-cell">
-            <a class="navigate-right" href="#/favs" data-transition="slide-in">
-                <span class="icon icon-star-filled"></span>
-                Your Favorites
-            </a>
-        </li>
-        <li class="table-view-cell">
-            <a class="navigate-right" href="#/find_local" data-transition="slide-in">
-                <span class="icon icon-home"></span>
-                Find Local Businesses
-            </a>
-        </li>
-        <li class="table-view-cell">
-            <a class="navigate-right" href="#/coupon" data-transition="slide-in">
-                <span class="icon icon-check"></span>
-                Your Coupons
-            </a>
-        </li> 
-    </ul>
+    <div class="content-padded">
+        <button ng-click="gotoview('business')" class="btn btn-positive btn-block">Take Surveys</button>
+        <button ng-click="gotoview('business')" class="btn btn-primary btn-block">My Free Stuff</button>
+    </div>
 </div>

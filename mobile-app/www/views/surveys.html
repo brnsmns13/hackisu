@@ -1,0 +1,19 @@
+<!-- Make sure all your bars are the first things in your <body> -->
+<header class="bar bar-nav">
+    <a id="back-link" class="icon icon-left-nav pull-left" href="#/main" data-transition="slide-out"></a>
+    <h1 class="title">Available Surveys</h1>
+</header>
+<!-- Wrap all non-bar HTML in the .content div (this is actually what scrolls) -->
+<div class="content" ng-controller="SurveyListCtrl">
+    <ul class="table-view">
+        <!-- Get the users favorites from firebase -->
+        <li ng-repeat="survey in surveys" class="table-view-cell media">
+            <a ng-click="goto_link('/surveys/' + survey._id)" class="navigate-right">
+                <div class="media-body">
+                    <h3>{{survey.name}}</h3>
+                </div>
+                <p>{{survey.reward.description}}</p>
+            </a>
+        </li>
+    </ul>
+</div>

@@ -45,29 +45,34 @@ angular.module('hackisu', ['ngRoute', 'firebase'])
         controller: 'BusinessCtrl',
         templateUrl: '/views/business.html'
     })
-    .when('/survey/:surveyID', {
-        controller: 'SurveyCtrl',
-        templateUrl: '/views/take_survey.html'
-    })
     .when('/coupon', {
         controller: 'CouponCtrl',
         templateUrl: '/views/coupon.html'
     })
-    .when('/coupon/:couponID', {
+    .when('/coupon/:code', {
         controller: 'CouponCtrl',
         templateUrl: '/views/coupon.html'
     })
+    .when('/surveys', {
+        controller: 'SurveyListCtrl',
+        templateUrl: '/views/surveys.html'
+    })
+    .when('/surveys/:id', {
+        controller: 'SurveyCtrl',
+        templateUrl: '/views/take_survey.html'
+    })
     .otherwise({
-        redirectTo: '/login'
+        redirectTo: '/main'
     })
 })
 
-.controller('MainCtrl', function($scope, $rootScope, Firebase, Users, Surveys) {
-    $scope.u = Users;
-    $scope.s = Surveys;
-    $scope.f = Firebase;
-    $rootScope.user_id = 2;
-    $scope.user_rewards = Firebase.child('/rewards');
+.controller('MainCtrl', function($scope, $rootScope, $location, Users, Surveys) {
+    $scope.gotoview = function(view) {
+        if(view == 'business') {
+            $location.path('/surveys');
+        }
+        $location.path('/surveys');
+    };
 })
 
 .controller('LoginCtrl', function($scope, $location, $rootScope, Firebase) {
@@ -96,32 +101,89 @@ angular.module('hackisu', ['ngRoute', 'firebase'])
     }
 })
 
-.controller('SurveyCtrl', function($scope, $routeParams, $rootScope, $location, Surveys) {
+.controller('SurveyListCtrl', function($scope, $location, $http) {
+    $http({
+        url: 'http://slingshotapp.herokuapp.com/api/1/get/surveys/',
+        method: "POST"
+    }).success(function (data, status, headers, config) {
+        $scope.surveys = data;
+    }).error(function (data, status, headers, config) {
+        $scope.surveys = [{
+            name: "Error"
+        }];
+    });
+    
+    $scope.goto_link = function(link) {
+        $location.path(link.toString().trim());
+    }
+})
+
+
+.controller('SurveyCtrl', function($scope, $routeParams, $location, $http) {
     
     $scope.submit_survey = function(id) {
-        var r = new Firebase('https://hackisu.firebaseio.com');
-        var rewards = r.child('/rewards');
-        r.child('rewards').push({business_id:24, business_name:"Pixel's Video Games", code:9876, discount:"Free sticker with next purchase!"});
-        $location.path("/main");
+        $location.path('/surveys');
+    }
+    $scope.answering = true;
+    // Transition to the next question
+    $scope.next_question = function() {
+        $scope.question_index++;
+        if($scope.question_index == $scope.survey['questions'].length) {
+            //$location.path('/surveys');
+            $scope.answering = false;
+        } else {
+            $scope.current_question = $scope.survey['questions'][$scope.question_index];
+        }
     }
     
-    $scope.surveys = Surveys;
-    $scope.survey = $scope.surveys[$routeParams.surveyID];
-    $scope.user_id = $rootScope.user_id;
+    $http({
+        url: 'http://slingshotapp.herokuapp.com/api/1/get/surveys/',
+        method: "POST"
+    }).success(function (data, status, headers, config) {
+        for(var i = 0; i < data.length; i++) {
+            if(data[i]['_id'] == $routeParams.id) {
+                $scope.survey = data[i];
+                $scope.current_question = "Success";
+                $scope.current_question = $scope.survey['questions'][0];
+                break;
+            }
+        }
+    }).error(function (data, status, headers, config) {
+        $scope.surveys = [{
+            name: "Error"
+        }];
+        $scope.current_question = "error";
+    });
+    
+    $scope.select = function(answer) {
+        $scope.selected = answer;
+    };
+        
+    $scope.itemClass = function(answer) {
+        return answer === $scope.selected ? 'answer-selected' : undefined;
+    };
+    
+    $scope.question_index = 0;
+    $scope.current_question = "asdf";
+    $scope.selected = undefined;
 })
 
 .controller('CouponCtrl', function($scope, $routeParams, $location, Firebase) {
     $scope.goto_link = function(link) {
         $location.path(link.toString().trim());
     }
-    if($routeParams.couponID != null) {
+    if($routeParams.code != null) {
         $scope.selected = true;
         document.getElementById("back-link").href = "#/coupon"
         // Get from firebase
-        $scope.coupon = {
-            business_name: "Business 1",
-            description: "Good for 5% off any order!"
-        };
+        $scope.coupons = Firebase['rewards'];
+        $scope.coupon = null;
+        for(key in $scope.coupons) {
+            if($scope.coupons[key].code == $routeParams.code) {
+                $scope.coupon = $scope.coupons[key];
+                break;
+            }
+        }
     } else {
         $scope.selected = false;
         // Get from firebase

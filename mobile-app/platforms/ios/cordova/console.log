@@ -3497,3 +3497,1084 @@ objc[72527]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.a
 2014-04-05 17:57:45.031 Surveyor[72527:80b] [CDVTimer][TotalPluginStartup] 12.416005ms
 2014-04-05 17:57:45.206 Surveyor[72527:80b] Resetting plugins due to page load.
 2014-04-05 17:57:45.664 Surveyor[72527:80b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[72779]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-05 18:01:38.876 Surveyor[72779:80b] Cannot find executable for CFBundle 0xaa39530 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-05 18:01:38.901 Surveyor[72779:80b] Cannot find executable for CFBundle 0xaa41b10 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-05 18:01:38.963 Surveyor[72779:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 18:01:38.974 Surveyor[72779:80b] Unlimited access to network resources
+2014-04-05 18:01:38.996 Surveyor[72779:80b] [CDVTimer][keyboard] 0.127017ms
+2014-04-05 18:01:39.007 Surveyor[72779:80b] [CDVTimer][statusbar] 11.159003ms
+2014-04-05 18:01:39.008 Surveyor[72779:80b] [CDVTimer][chromenavigation] 0.041008ms
+2014-04-05 18:01:39.008 Surveyor[72779:80b] [CDVTimer][chromebootstrap] 0.053942ms
+2014-04-05 18:01:39.009 Surveyor[72779:80b] [CDVTimer][chromeextensionurls] 0.074029ms
+2014-04-05 18:01:39.009 Surveyor[72779:80b] [CDVTimer][TotalPluginStartup] 13.593972ms
+2014-04-05 18:01:39.157 Surveyor[72779:80b] Resetting plugins due to page load.
+2014-04-05 18:01:39.662 Surveyor[72779:80b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[73279]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-05 18:18:37.533 Surveyor[73279:80b] Cannot find executable for CFBundle 0xa464720 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-05 18:18:37.556 Surveyor[73279:80b] Cannot find executable for CFBundle 0xa79f1e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-05 18:18:37.594 Surveyor[73279:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 18:18:37.600 Surveyor[73279:80b] Unlimited access to network resources
+2014-04-05 18:18:37.660 Surveyor[73279:80b] [CDVTimer][keyboard] 0.086010ms
+2014-04-05 18:18:37.668 Surveyor[73279:80b] [CDVTimer][statusbar] 7.595956ms
+2014-04-05 18:18:37.668 Surveyor[73279:80b] [CDVTimer][chromenavigation] 0.029981ms
+2014-04-05 18:18:37.669 Surveyor[73279:80b] [CDVTimer][chromebootstrap] 0.039995ms
+2014-04-05 18:18:37.669 Surveyor[73279:80b] [CDVTimer][chromeextensionurls] 0.051975ms
+2014-04-05 18:18:37.669 Surveyor[73279:80b] [CDVTimer][TotalPluginStartup] 9.534001ms
+2014-04-05 18:18:37.755 Surveyor[73279:80b] Resetting plugins due to page load.
+2014-04-05 18:18:38.304 Surveyor[73279:80b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[73915]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-05 19:25:41.911 Surveyor[73915:80b] Cannot find executable for CFBundle 0xbf1e6f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-05 19:25:41.923 Surveyor[73915:80b] Cannot find executable for CFBundle 0xa660680 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-05 19:25:41.973 Surveyor[73915:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 19:25:41.979 Surveyor[73915:80b] Unlimited access to network resources
+2014-04-05 19:25:42.039 Surveyor[73915:80b] [CDVTimer][keyboard] 0.086010ms
+2014-04-05 19:25:42.047 Surveyor[73915:80b] [CDVTimer][statusbar] 7.771015ms
+2014-04-05 19:25:42.048 Surveyor[73915:80b] [CDVTimer][chromenavigation] 0.031948ms
+2014-04-05 19:25:42.048 Surveyor[73915:80b] [CDVTimer][chromebootstrap] 0.036001ms
+2014-04-05 19:25:42.048 Surveyor[73915:80b] [CDVTimer][chromeextensionurls] 0.055015ms
+2014-04-05 19:25:42.049 Surveyor[73915:80b] [CDVTimer][TotalPluginStartup] 10.088980ms
+2014-04-05 19:25:42.130 Surveyor[73915:80b] Resetting plugins due to page load.
+2014-04-05 19:25:42.881 Surveyor[73915:80b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[74130]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-05 19:26:26.330 Surveyor[74130:80b] Cannot find executable for CFBundle 0xa712e90 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-05 19:26:26.343 Surveyor[74130:80b] Cannot find executable for CFBundle 0xa72d840 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-05 19:26:26.418 Surveyor[74130:80b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 19:26:26.426 Surveyor[74130:80b] Unlimited access to network resources
+2014-04-05 19:26:26.500 Surveyor[74130:80b] [CDVTimer][keyboard] 0.092983ms
+2014-04-05 19:26:26.510 Surveyor[74130:80b] [CDVTimer][statusbar] 8.881986ms
+2014-04-05 19:26:26.510 Surveyor[74130:80b] [CDVTimer][chromenavigation] 0.040948ms
+2014-04-05 19:26:26.510 Surveyor[74130:80b] [CDVTimer][chromebootstrap] 0.048041ms
+2014-04-05 19:26:26.511 Surveyor[74130:80b] [CDVTimer][chromeextensionurls] 0.057995ms
+2014-04-05 19:26:26.511 Surveyor[74130:80b] [CDVTimer][TotalPluginStartup] 11.014998ms
+2014-04-05 19:26:26.595 Surveyor[74130:80b] Resetting plugins due to page load.
+2014-04-05 19:26:27.432 Surveyor[74130:80b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[57318]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 09:36:06.379 Surveyor[57318:70b] Cannot find executable for CFBundle 0xbaa3200 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 09:36:06.384 Surveyor[57318:70b] Cannot find executable for CFBundle 0xbab6400 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 09:36:06.505 Surveyor[57318:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 09:36:06.513 Surveyor[57318:70b] Unlimited access to network resources
+2014-05-03 09:36:06.557 Surveyor[57318:70b] [CDVTimer][keyboard] 0.090003ms
+2014-05-03 09:36:06.565 Surveyor[57318:70b] [CDVTimer][statusbar] 7.193029ms
+2014-05-03 09:36:06.565 Surveyor[57318:70b] [CDVTimer][chromenavigation] 0.043988ms
+2014-05-03 09:36:06.566 Surveyor[57318:70b] [CDVTimer][chromebootstrap] 0.054002ms
+2014-05-03 09:36:06.566 Surveyor[57318:70b] [CDVTimer][chromeextensionurls] 0.056982ms
+2014-05-03 09:36:06.567 Surveyor[57318:70b] [CDVTimer][TotalPluginStartup] 9.600997ms
+2014-05-03 09:36:06.634 Surveyor[57318:70b] Resetting plugins due to page load.
+2014-05-03 09:36:07.266 Surveyor[57318:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+2014-05-03 09:36:26.470 Surveyor[57318:70b] Received memory warning.
+objc[57556]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 09:36:39.970 Surveyor[57556:70b] Cannot find executable for CFBundle 0xa48a0a0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 09:36:39.975 Surveyor[57556:70b] Cannot find executable for CFBundle 0xa4aa790 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 09:36:39.997 Surveyor[57556:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 09:36:40.006 Surveyor[57556:70b] Unlimited access to network resources
+2014-05-03 09:36:40.024 Surveyor[57556:70b] [CDVTimer][keyboard] 0.093997ms
+2014-05-03 09:36:40.032 Surveyor[57556:70b] [CDVTimer][statusbar] 8.064032ms
+2014-05-03 09:36:40.032 Surveyor[57556:70b] [CDVTimer][chromenavigation] 0.038981ms
+2014-05-03 09:36:40.033 Surveyor[57556:70b] [CDVTimer][chromebootstrap] 0.046015ms
+2014-05-03 09:36:40.033 Surveyor[57556:70b] [CDVTimer][chromeextensionurls] 0.067949ms
+2014-05-03 09:36:40.033 Surveyor[57556:70b] [CDVTimer][TotalPluginStartup] 9.537995ms
+2014-05-03 09:36:40.127 Surveyor[57556:70b] Resetting plugins due to page load.
+2014-05-03 09:36:41.538 Surveyor[57556:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[57837]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 09:37:12.893 Surveyor[57837:70b] Cannot find executable for CFBundle 0xa847110 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 09:37:12.898 Surveyor[57837:70b] Cannot find executable for CFBundle 0xa9393e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 09:37:12.932 Surveyor[57837:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 09:37:12.939 Surveyor[57837:70b] Unlimited access to network resources
+2014-05-03 09:37:12.957 Surveyor[57837:70b] [CDVTimer][keyboard] 0.093997ms
+2014-05-03 09:37:12.968 Surveyor[57837:70b] [CDVTimer][statusbar] 10.865033ms
+2014-05-03 09:37:12.969 Surveyor[57837:70b] [CDVTimer][chromenavigation] 0.043988ms
+2014-05-03 09:37:12.969 Surveyor[57837:70b] [CDVTimer][chromebootstrap] 0.054002ms
+2014-05-03 09:37:12.970 Surveyor[57837:70b] [CDVTimer][chromeextensionurls] 0.076950ms
+2014-05-03 09:37:12.970 Surveyor[57837:70b] [CDVTimer][TotalPluginStartup] 13.317943ms
+2014-05-03 09:37:13.072 Surveyor[57837:70b] Resetting plugins due to page load.
+2014-05-03 09:37:13.765 Surveyor[57837:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[58790]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 12:05:48.647 Surveyor[58790:70b] Cannot find executable for CFBundle 0xa3ad960 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 12:05:48.656 Surveyor[58790:70b] Cannot find executable for CFBundle 0xb18aad0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 12:05:48.756 Surveyor[58790:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 12:05:48.763 Surveyor[58790:70b] Unlimited access to network resources
+2014-05-03 12:05:48.802 Surveyor[58790:70b] [CDVTimer][keyboard] 0.128984ms
+2014-05-03 12:05:48.812 Surveyor[58790:70b] [CDVTimer][statusbar] 9.312987ms
+2014-05-03 12:05:48.813 Surveyor[58790:70b] [CDVTimer][chromenavigation] 0.027955ms
+2014-05-03 12:05:48.813 Surveyor[58790:70b] [CDVTimer][chromebootstrap] 0.034988ms
+2014-05-03 12:05:48.813 Surveyor[58790:70b] [CDVTimer][chromeextensionurls] 0.052989ms
+2014-05-03 12:05:48.814 Surveyor[58790:70b] [CDVTimer][TotalPluginStartup] 11.433005ms
+2014-05-03 12:05:49.364 Surveyor[58790:70b] Resetting plugins due to page load.
+2014-05-03 12:05:52.414 Surveyor[58790:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[61188]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 12:51:51.645 Surveyor[61188:70b] Cannot find executable for CFBundle 0xa596600 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 12:51:51.676 Surveyor[61188:70b] Cannot find executable for CFBundle 0xa36f920 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 12:51:52.135 Surveyor[61188:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 12:51:52.141 Surveyor[61188:70b] Unlimited access to network resources
+2014-05-03 12:51:52.177 Surveyor[61188:70b] [CDVTimer][keyboard] 0.091016ms
+2014-05-03 12:51:52.253 Surveyor[61188:70b] [CDVTimer][statusbar] 75.276971ms
+2014-05-03 12:51:52.254 Surveyor[61188:70b] [CDVTimer][chromenavigation] 0.048995ms
+2014-05-03 12:51:52.255 Surveyor[61188:70b] [CDVTimer][chromebootstrap] 0.054002ms
+2014-05-03 12:51:52.255 Surveyor[61188:70b] [CDVTimer][chromeextensionurls] 0.073016ms
+2014-05-03 12:51:52.255 Surveyor[61188:70b] [CDVTimer][TotalPluginStartup] 78.131974ms
+2014-05-03 12:51:53.519 Surveyor[61188:70b] Resetting plugins due to page load.
+2014-05-03 12:51:54.454 Surveyor[61188:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[61395]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 12:52:45.875 Surveyor[61395:70b] Cannot find executable for CFBundle 0xa5cec30 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 12:52:45.880 Surveyor[61395:70b] Cannot find executable for CFBundle 0xa691b80 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 12:52:45.939 Surveyor[61395:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 12:52:45.946 Surveyor[61395:70b] Unlimited access to network resources
+2014-05-03 12:52:45.964 Surveyor[61395:70b] [CDVTimer][keyboard] 0.090003ms
+2014-05-03 12:52:45.972 Surveyor[61395:70b] [CDVTimer][statusbar] 6.627977ms
+2014-05-03 12:52:45.972 Surveyor[61395:70b] [CDVTimer][chromenavigation] 0.030994ms
+2014-05-03 12:52:45.972 Surveyor[61395:70b] [CDVTimer][chromebootstrap] 0.038981ms
+2014-05-03 12:52:45.973 Surveyor[61395:70b] [CDVTimer][chromeextensionurls] 0.051975ms
+2014-05-03 12:52:45.973 Surveyor[61395:70b] [CDVTimer][TotalPluginStartup] 8.854032ms
+2014-05-03 12:52:46.085 Surveyor[61395:70b] Resetting plugins due to page load.
+2014-05-03 12:52:52.692 Surveyor[61395:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[61646]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 12:53:19.878 Surveyor[61646:70b] Cannot find executable for CFBundle 0xa62e500 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 12:53:19.882 Surveyor[61646:70b] Cannot find executable for CFBundle 0xa645e70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 12:53:19.911 Surveyor[61646:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 12:53:19.919 Surveyor[61646:70b] Unlimited access to network resources
+2014-05-03 12:53:19.937 Surveyor[61646:70b] [CDVTimer][keyboard] 0.099003ms
+2014-05-03 12:53:19.945 Surveyor[61646:70b] [CDVTimer][statusbar] 7.144988ms
+2014-05-03 12:53:19.945 Surveyor[61646:70b] [CDVTimer][chromenavigation] 0.039995ms
+2014-05-03 12:53:19.945 Surveyor[61646:70b] [CDVTimer][chromebootstrap] 0.051975ms
+2014-05-03 12:53:19.946 Surveyor[61646:70b] [CDVTimer][chromeextensionurls] 0.060976ms
+2014-05-03 12:53:19.946 Surveyor[61646:70b] [CDVTimer][TotalPluginStartup] 8.508027ms
+2014-05-03 12:53:20.024 Surveyor[61646:70b] Resetting plugins due to page load.
+2014-05-03 12:53:20.946 Surveyor[61646:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[61856]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 12:55:03.087 Surveyor[61856:70b] Cannot find executable for CFBundle 0xa65dee0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 12:55:03.090 Surveyor[61856:70b] Cannot find executable for CFBundle 0xa6763e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 12:55:03.173 Surveyor[61856:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 12:55:03.179 Surveyor[61856:70b] Unlimited access to network resources
+2014-05-03 12:55:03.194 Surveyor[61856:70b] [CDVTimer][keyboard] 0.084996ms
+2014-05-03 12:55:03.200 Surveyor[61856:70b] [CDVTimer][statusbar] 6.344020ms
+2014-05-03 12:55:03.200 Surveyor[61856:70b] [CDVTimer][chromenavigation] 0.027001ms
+2014-05-03 12:55:03.201 Surveyor[61856:70b] [CDVTimer][chromebootstrap] 0.032961ms
+2014-05-03 12:55:03.201 Surveyor[61856:70b] [CDVTimer][chromeextensionurls] 0.046015ms
+2014-05-03 12:55:03.201 Surveyor[61856:70b] [CDVTimer][TotalPluginStartup] 7.501006ms
+2014-05-03 12:55:03.311 Surveyor[61856:70b] Resetting plugins due to page load.
+2014-05-03 12:55:04.730 Surveyor[61856:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[62063]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 12:56:56.909 Surveyor[62063:70b] Cannot find executable for CFBundle 0xa55d550 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 12:56:56.912 Surveyor[62063:70b] Cannot find executable for CFBundle 0xa57a7c0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 12:56:57.043 Surveyor[62063:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 12:56:57.053 Surveyor[62063:70b] Unlimited access to network resources
+2014-05-03 12:56:57.069 Surveyor[62063:70b] [CDVTimer][keyboard] 0.090003ms
+2014-05-03 12:56:57.075 Surveyor[62063:70b] [CDVTimer][statusbar] 6.214023ms
+2014-05-03 12:56:57.076 Surveyor[62063:70b] [CDVTimer][chromenavigation] 0.026047ms
+2014-05-03 12:56:57.076 Surveyor[62063:70b] [CDVTimer][chromebootstrap] 0.033021ms
+2014-05-03 12:56:57.076 Surveyor[62063:70b] [CDVTimer][chromeextensionurls] 0.045955ms
+2014-05-03 12:56:57.076 Surveyor[62063:70b] [CDVTimer][TotalPluginStartup] 7.363975ms
+2014-05-03 12:56:57.201 Surveyor[62063:70b] Resetting plugins due to page load.
+2014-05-03 12:56:58.629 Surveyor[62063:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[62327]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 13:10:33.556 Surveyor[62327:70b] Cannot find executable for CFBundle 0xa6a7150 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 13:10:33.560 Surveyor[62327:70b] Cannot find executable for CFBundle 0xa6cba00 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 13:10:33.708 Surveyor[62327:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 13:10:33.716 Surveyor[62327:70b] Unlimited access to network resources
+2014-05-03 13:10:33.746 Surveyor[62327:70b] [CDVTimer][keyboard] 0.083029ms
+2014-05-03 13:10:33.753 Surveyor[62327:70b] [CDVTimer][statusbar] 6.621003ms
+2014-05-03 13:10:33.753 Surveyor[62327:70b] [CDVTimer][chromenavigation] 0.039995ms
+2014-05-03 13:10:33.753 Surveyor[62327:70b] [CDVTimer][chromebootstrap] 0.051022ms
+2014-05-03 13:10:33.753 Surveyor[62327:70b] [CDVTimer][chromeextensionurls] 0.074029ms
+2014-05-03 13:10:33.754 Surveyor[62327:70b] [CDVTimer][TotalPluginStartup] 7.966995ms
+2014-05-03 13:10:33.866 Surveyor[62327:70b] Resetting plugins due to page load.
+2014-05-03 13:10:34.747 Surveyor[62327:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[62521]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 13:15:33.100 Surveyor[62521:70b] Cannot find executable for CFBundle 0xa53f470 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 13:15:33.103 Surveyor[62521:70b] Cannot find executable for CFBundle 0xa56d0e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 13:15:33.220 Surveyor[62521:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 13:15:33.227 Surveyor[62521:70b] Unlimited access to network resources
+2014-05-03 13:15:33.250 Surveyor[62521:70b] [CDVTimer][keyboard] 0.086963ms
+2014-05-03 13:15:33.258 Surveyor[62521:70b] [CDVTimer][statusbar] 8.192956ms
+2014-05-03 13:15:33.259 Surveyor[62521:70b] [CDVTimer][chromenavigation] 0.063002ms
+2014-05-03 13:15:33.259 Surveyor[62521:70b] [CDVTimer][chromebootstrap] 0.072002ms
+2014-05-03 13:15:33.260 Surveyor[62521:70b] [CDVTimer][chromeextensionurls] 0.093043ms
+2014-05-03 13:15:33.260 Surveyor[62521:70b] [CDVTimer][TotalPluginStartup] 10.190010ms
+2014-05-03 13:15:33.508 Surveyor[62521:70b] Resetting plugins due to page load.
+2014-05-03 13:15:34.584 Surveyor[62521:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[62712]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 13:17:50.969 Surveyor[62712:70b] Cannot find executable for CFBundle 0xa79a440 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 13:17:50.974 Surveyor[62712:70b] Cannot find executable for CFBundle 0xa7be150 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 13:17:51.318 Surveyor[62712:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 13:17:51.327 Surveyor[62712:70b] Unlimited access to network resources
+2014-05-03 13:17:51.351 Surveyor[62712:70b] [CDVTimer][keyboard] 0.091970ms
+2014-05-03 13:17:51.358 Surveyor[62712:70b] [CDVTimer][statusbar] 6.349027ms
+2014-05-03 13:17:51.358 Surveyor[62712:70b] [CDVTimer][chromenavigation] 0.027001ms
+2014-05-03 13:17:51.358 Surveyor[62712:70b] [CDVTimer][chromebootstrap] 0.033021ms
+2014-05-03 13:17:51.358 Surveyor[62712:70b] [CDVTimer][chromeextensionurls] 0.045002ms
+2014-05-03 13:17:51.359 Surveyor[62712:70b] [CDVTimer][TotalPluginStartup] 7.511020ms
+2014-05-03 13:17:51.584 Surveyor[62712:70b] Resetting plugins due to page load.
+2014-05-03 13:17:52.395 Surveyor[62712:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[62896]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 13:18:49.806 Surveyor[62896:70b] Cannot find executable for CFBundle 0xa343c70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 13:18:49.809 Surveyor[62896:70b] Cannot find executable for CFBundle 0xa36ba40 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 13:18:49.972 Surveyor[62896:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 13:18:49.982 Surveyor[62896:70b] Unlimited access to network resources
+2014-05-03 13:18:50.006 Surveyor[62896:70b] [CDVTimer][keyboard] 0.090003ms
+2014-05-03 13:18:50.012 Surveyor[62896:70b] [CDVTimer][statusbar] 6.514966ms
+2014-05-03 13:18:50.013 Surveyor[62896:70b] [CDVTimer][chromenavigation] 0.027001ms
+2014-05-03 13:18:50.013 Surveyor[62896:70b] [CDVTimer][chromebootstrap] 0.032961ms
+2014-05-03 13:18:50.013 Surveyor[62896:70b] [CDVTimer][chromeextensionurls] 0.046015ms
+2014-05-03 13:18:50.013 Surveyor[62896:70b] [CDVTimer][TotalPluginStartup] 7.667005ms
+2014-05-03 13:18:50.128 Surveyor[62896:70b] Resetting plugins due to page load.
+2014-05-03 13:18:51.180 Surveyor[62896:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[63085]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 13:20:46.163 Surveyor[63085:70b] Cannot find executable for CFBundle 0xa37ada0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 13:20:46.167 Surveyor[63085:70b] Cannot find executable for CFBundle 0xa3b9690 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 13:20:46.269 Surveyor[63085:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 13:20:46.275 Surveyor[63085:70b] Unlimited access to network resources
+2014-05-03 13:20:46.303 Surveyor[63085:70b] [CDVTimer][keyboard] 0.114024ms
+2014-05-03 13:20:46.312 Surveyor[63085:70b] [CDVTimer][statusbar] 9.067953ms
+2014-05-03 13:20:46.312 Surveyor[63085:70b] [CDVTimer][chromenavigation] 0.059009ms
+2014-05-03 13:20:46.313 Surveyor[63085:70b] [CDVTimer][chromebootstrap] 0.073016ms
+2014-05-03 13:20:46.313 Surveyor[63085:70b] [CDVTimer][chromeextensionurls] 0.091016ms
+2014-05-03 13:20:46.314 Surveyor[63085:70b] [CDVTimer][TotalPluginStartup] 11.107028ms
+2014-05-03 13:20:46.429 Surveyor[63085:70b] Resetting plugins due to page load.
+2014-05-03 13:20:47.152 Surveyor[63085:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[63268]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 13:21:51.681 Surveyor[63268:70b] Cannot find executable for CFBundle 0xa5ab7f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 13:21:51.685 Surveyor[63268:70b] Cannot find executable for CFBundle 0xa5d9a80 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 13:21:51.783 Surveyor[63268:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 13:21:51.789 Surveyor[63268:70b] Unlimited access to network resources
+2014-05-03 13:21:51.810 Surveyor[63268:70b] [CDVTimer][keyboard] 0.088036ms
+2014-05-03 13:21:51.817 Surveyor[63268:70b] [CDVTimer][statusbar] 6.901979ms
+2014-05-03 13:21:51.817 Surveyor[63268:70b] [CDVTimer][chromenavigation] 0.033021ms
+2014-05-03 13:21:51.817 Surveyor[63268:70b] [CDVTimer][chromebootstrap] 0.047982ms
+2014-05-03 13:21:51.817 Surveyor[63268:70b] [CDVTimer][chromeextensionurls] 0.066996ms
+2014-05-03 13:21:51.818 Surveyor[63268:70b] [CDVTimer][TotalPluginStartup] 8.170009ms
+2014-05-03 13:21:51.934 Surveyor[63268:70b] Resetting plugins due to page load.
+2014-05-03 13:21:52.604 Surveyor[63268:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[63452]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 13:22:35.550 Surveyor[63452:70b] Cannot find executable for CFBundle 0xa4a0200 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 13:22:35.554 Surveyor[63452:70b] Cannot find executable for CFBundle 0xa4be280 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 13:22:35.937 Surveyor[63452:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 13:22:35.943 Surveyor[63452:70b] Unlimited access to network resources
+2014-05-03 13:22:35.971 Surveyor[63452:70b] [CDVTimer][keyboard] 0.086010ms
+2014-05-03 13:22:35.979 Surveyor[63452:70b] [CDVTimer][statusbar] 8.071005ms
+2014-05-03 13:22:35.980 Surveyor[63452:70b] [CDVTimer][chromenavigation] 0.064015ms
+2014-05-03 13:22:35.980 Surveyor[63452:70b] [CDVTimer][chromebootstrap] 0.075042ms
+2014-05-03 13:22:35.980 Surveyor[63452:70b] [CDVTimer][chromeextensionurls] 0.092030ms
+2014-05-03 13:22:35.981 Surveyor[63452:70b] [CDVTimer][TotalPluginStartup] 9.980977ms
+2014-05-03 13:22:36.091 Surveyor[63452:70b] Resetting plugins due to page load.
+2014-05-03 13:22:37.574 Surveyor[63452:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[63646]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 13:29:01.968 Surveyor[63646:70b] Cannot find executable for CFBundle 0xa778f10 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 13:29:01.972 Surveyor[63646:70b] Cannot find executable for CFBundle 0xa791320 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 13:29:02.085 Surveyor[63646:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 13:29:02.091 Surveyor[63646:70b] Unlimited access to network resources
+2014-05-03 13:29:02.114 Surveyor[63646:70b] [CDVTimer][keyboard] 0.086010ms
+2014-05-03 13:29:02.121 Surveyor[63646:70b] [CDVTimer][statusbar] 6.965995ms
+2014-05-03 13:29:02.121 Surveyor[63646:70b] [CDVTimer][chromenavigation] 0.027001ms
+2014-05-03 13:29:02.121 Surveyor[63646:70b] [CDVTimer][chromebootstrap] 0.033021ms
+2014-05-03 13:29:02.122 Surveyor[63646:70b] [CDVTimer][chromeextensionurls] 0.046015ms
+2014-05-03 13:29:02.122 Surveyor[63646:70b] [CDVTimer][TotalPluginStartup] 8.129001ms
+2014-05-03 13:29:02.420 Surveyor[63646:70b] Resetting plugins due to page load.
+2014-05-03 13:29:03.351 Surveyor[63646:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[63830]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 13:29:58.879 Surveyor[63830:70b] Cannot find executable for CFBundle 0xb3a7fe0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 13:29:58.883 Surveyor[63830:70b] Cannot find executable for CFBundle 0xb3bf750 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 13:29:58.905 Surveyor[63830:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 13:29:58.911 Surveyor[63830:70b] Unlimited access to network resources
+2014-05-03 13:29:58.926 Surveyor[63830:70b] [CDVTimer][keyboard] 0.092983ms
+2014-05-03 13:29:58.935 Surveyor[63830:70b] [CDVTimer][statusbar] 8.419991ms
+2014-05-03 13:29:58.935 Surveyor[63830:70b] [CDVTimer][chromenavigation] 0.058055ms
+2014-05-03 13:29:58.935 Surveyor[63830:70b] [CDVTimer][chromebootstrap] 0.084996ms
+2014-05-03 13:29:58.936 Surveyor[63830:70b] [CDVTimer][chromeextensionurls] 0.092030ms
+2014-05-03 13:29:58.936 Surveyor[63830:70b] [CDVTimer][TotalPluginStartup] 10.399997ms
+2014-05-03 13:29:58.970 Surveyor[63830:70b] Resetting plugins due to page load.
+2014-05-03 13:30:00.355 Surveyor[63830:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[64021]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 13:34:47.338 Surveyor[64021:70b] Cannot find executable for CFBundle 0xa577ca0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 13:34:47.341 Surveyor[64021:70b] Cannot find executable for CFBundle 0xa58f420 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 13:34:47.363 Surveyor[64021:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 13:34:47.369 Surveyor[64021:70b] Unlimited access to network resources
+2014-05-03 13:34:47.388 Surveyor[64021:70b] [CDVTimer][keyboard] 0.086010ms
+2014-05-03 13:34:47.394 Surveyor[64021:70b] [CDVTimer][statusbar] 6.092012ms
+2014-05-03 13:34:47.395 Surveyor[64021:70b] [CDVTimer][chromenavigation] 0.034988ms
+2014-05-03 13:34:47.395 Surveyor[64021:70b] [CDVTimer][chromebootstrap] 0.032961ms
+2014-05-03 13:34:47.395 Surveyor[64021:70b] [CDVTimer][chromeextensionurls] 0.043988ms
+2014-05-03 13:34:47.395 Surveyor[64021:70b] [CDVTimer][TotalPluginStartup] 7.229030ms
+2014-05-03 13:34:47.430 Surveyor[64021:70b] Resetting plugins due to page load.
+2014-05-03 13:34:48.296 Surveyor[64021:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[64207]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 13:36:30.838 Surveyor[64207:70b] Cannot find executable for CFBundle 0xa66f440 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 13:36:30.842 Surveyor[64207:70b] Cannot find executable for CFBundle 0xa68f8e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 13:36:30.864 Surveyor[64207:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 13:36:30.871 Surveyor[64207:70b] Unlimited access to network resources
+2014-05-03 13:36:30.885 Surveyor[64207:70b] [CDVTimer][keyboard] 0.090957ms
+2014-05-03 13:36:30.891 Surveyor[64207:70b] [CDVTimer][statusbar] 6.310999ms
+2014-05-03 13:36:30.892 Surveyor[64207:70b] [CDVTimer][chromenavigation] 0.028014ms
+2014-05-03 13:36:30.892 Surveyor[64207:70b] [CDVTimer][chromebootstrap] 0.033021ms
+2014-05-03 13:36:30.892 Surveyor[64207:70b] [CDVTimer][chromeextensionurls] 0.045955ms
+2014-05-03 13:36:30.892 Surveyor[64207:70b] [CDVTimer][TotalPluginStartup] 7.480979ms
+2014-05-03 13:36:30.930 Surveyor[64207:70b] Resetting plugins due to page load.
+2014-05-03 13:36:32.276 Surveyor[64207:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[64400]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 13:39:49.172 Surveyor[64400:70b] Cannot find executable for CFBundle 0xa78a150 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 13:39:49.175 Surveyor[64400:70b] Cannot find executable for CFBundle 0xa7a2560 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 13:39:49.201 Surveyor[64400:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 13:39:49.208 Surveyor[64400:70b] Unlimited access to network resources
+2014-05-03 13:39:49.223 Surveyor[64400:70b] [CDVTimer][keyboard] 0.086963ms
+2014-05-03 13:39:49.229 Surveyor[64400:70b] [CDVTimer][statusbar] 6.192029ms
+2014-05-03 13:39:49.230 Surveyor[64400:70b] [CDVTimer][chromenavigation] 0.033975ms
+2014-05-03 13:39:49.230 Surveyor[64400:70b] [CDVTimer][chromebootstrap] 0.032008ms
+2014-05-03 13:39:49.230 Surveyor[64400:70b] [CDVTimer][chromeextensionurls] 0.046015ms
+2014-05-03 13:39:49.230 Surveyor[64400:70b] [CDVTimer][TotalPluginStartup] 7.341027ms
+2014-05-03 13:39:49.263 Surveyor[64400:70b] Resetting plugins due to page load.
+2014-05-03 13:39:50.565 Surveyor[64400:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[64583]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 13:40:54.455 Surveyor[64583:70b] Cannot find executable for CFBundle 0xa463b30 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 13:40:54.459 Surveyor[64583:70b] Cannot find executable for CFBundle 0xa483fa0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 13:40:54.484 Surveyor[64583:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 13:40:54.490 Surveyor[64583:70b] Unlimited access to network resources
+2014-05-03 13:40:54.505 Surveyor[64583:70b] [CDVTimer][keyboard] 0.087976ms
+2014-05-03 13:40:54.512 Surveyor[64583:70b] [CDVTimer][statusbar] 6.288946ms
+2014-05-03 13:40:54.512 Surveyor[64583:70b] [CDVTimer][chromenavigation] 0.027955ms
+2014-05-03 13:40:54.512 Surveyor[64583:70b] [CDVTimer][chromebootstrap] 0.033021ms
+2014-05-03 13:40:54.513 Surveyor[64583:70b] [CDVTimer][chromeextensionurls] 0.045002ms
+2014-05-03 13:40:54.513 Surveyor[64583:70b] [CDVTimer][TotalPluginStartup] 7.429004ms
+2014-05-03 13:40:54.547 Surveyor[64583:70b] Resetting plugins due to page load.
+2014-05-03 13:40:54.917 Surveyor[64583:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[64765]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 13:41:18.017 Surveyor[64765:70b] Cannot find executable for CFBundle 0xa35f490 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 13:41:18.020 Surveyor[64765:70b] Cannot find executable for CFBundle 0xa37d7f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 13:41:18.045 Surveyor[64765:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 13:41:18.052 Surveyor[64765:70b] Unlimited access to network resources
+2014-05-03 13:41:18.066 Surveyor[64765:70b] [CDVTimer][keyboard] 0.094056ms
+2014-05-03 13:41:18.075 Surveyor[64765:70b] [CDVTimer][statusbar] 8.593023ms
+2014-05-03 13:41:18.076 Surveyor[64765:70b] [CDVTimer][chromenavigation] 0.057995ms
+2014-05-03 13:41:18.076 Surveyor[64765:70b] [CDVTimer][chromebootstrap] 0.084996ms
+2014-05-03 13:41:18.077 Surveyor[64765:70b] [CDVTimer][chromeextensionurls] 0.090957ms
+2014-05-03 13:41:18.077 Surveyor[64765:70b] [CDVTimer][TotalPluginStartup] 10.579050ms
+2014-05-03 13:41:18.110 Surveyor[64765:70b] Resetting plugins due to page load.
+2014-05-03 13:41:19.504 Surveyor[64765:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[64967]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 13:55:38.528 Surveyor[64967:70b] Cannot find executable for CFBundle 0xb922ca0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 13:55:38.548 Surveyor[64967:70b] Cannot find executable for CFBundle 0xb93d7b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 13:55:38.700 Surveyor[64967:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 13:55:38.707 Surveyor[64967:70b] Unlimited access to network resources
+2014-05-03 13:55:38.740 Surveyor[64967:70b] [CDVTimer][keyboard] 0.163972ms
+2014-05-03 13:55:38.780 Surveyor[64967:70b] [CDVTimer][statusbar] 38.884997ms
+2014-05-03 13:55:38.780 Surveyor[64967:70b] [CDVTimer][chromenavigation] 0.042021ms
+2014-05-03 13:55:38.781 Surveyor[64967:70b] [CDVTimer][chromebootstrap] 0.051022ms
+2014-05-03 13:55:38.781 Surveyor[64967:70b] [CDVTimer][chromeextensionurls] 0.071049ms
+2014-05-03 13:55:38.781 Surveyor[64967:70b] [CDVTimer][TotalPluginStartup] 40.843964ms
+2014-05-03 13:55:38.985 Surveyor[64967:70b] Resetting plugins due to page load.
+2014-05-03 13:55:40.486 Surveyor[64967:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html
+objc[65157]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 13:56:46.543 Surveyor[65157:70b] Cannot find executable for CFBundle 0xbaba9e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 13:56:46.546 Surveyor[65157:70b] Cannot find executable for CFBundle 0xbaf7670 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 13:56:46.632 Surveyor[65157:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 13:56:46.638 Surveyor[65157:70b] Unlimited access to network resources
+2014-05-03 13:56:46.655 Surveyor[65157:70b] [CDVTimer][keyboard] 0.093997ms
+2014-05-03 13:56:46.662 Surveyor[65157:70b] [CDVTimer][statusbar] 6.471038ms
+2014-05-03 13:56:46.662 Surveyor[65157:70b] [CDVTimer][chromenavigation] 0.028014ms
+2014-05-03 13:56:46.662 Surveyor[65157:70b] [CDVTimer][chromebootstrap] 0.033975ms
+2014-05-03 13:56:46.663 Surveyor[65157:70b] [CDVTimer][chromeextensionurls] 0.046015ms
+2014-05-03 13:56:46.663 Surveyor[65157:70b] [CDVTimer][TotalPluginStartup] 7.665992ms
+2014-05-03 13:56:46.775 Surveyor[65157:70b] Resetting plugins due to page load.
+2014-05-03 13:56:47.416 Surveyor[65157:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[65341]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 13:57:53.068 Surveyor[65341:70b] Cannot find executable for CFBundle 0xc062600 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 13:57:53.072 Surveyor[65341:70b] Cannot find executable for CFBundle 0xc08ba80 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 13:57:53.098 Surveyor[65341:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 13:57:53.104 Surveyor[65341:70b] Unlimited access to network resources
+2014-05-03 13:57:53.118 Surveyor[65341:70b] [CDVTimer][keyboard] 0.087976ms
+2014-05-03 13:57:53.127 Surveyor[65341:70b] [CDVTimer][statusbar] 8.363962ms
+2014-05-03 13:57:53.128 Surveyor[65341:70b] [CDVTimer][chromenavigation] 0.060022ms
+2014-05-03 13:57:53.128 Surveyor[65341:70b] [CDVTimer][chromebootstrap] 0.077009ms
+2014-05-03 13:57:53.128 Surveyor[65341:70b] [CDVTimer][chromeextensionurls] 0.091016ms
+2014-05-03 13:57:53.129 Surveyor[65341:70b] [CDVTimer][TotalPluginStartup] 10.351002ms
+2014-05-03 13:57:53.162 Surveyor[65341:70b] Resetting plugins due to page load.
+2014-05-03 13:57:53.651 Surveyor[65341:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[65533]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 13:58:33.953 Surveyor[65533:70b] Cannot find executable for CFBundle 0xa355d90 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 13:58:33.957 Surveyor[65533:70b] Cannot find executable for CFBundle 0xa379e30 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 13:58:34.041 Surveyor[65533:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 13:58:34.047 Surveyor[65533:70b] Unlimited access to network resources
+2014-05-03 13:58:34.062 Surveyor[65533:70b] [CDVTimer][keyboard] 0.083029ms
+2014-05-03 13:58:34.068 Surveyor[65533:70b] [CDVTimer][statusbar] 6.323993ms
+2014-05-03 13:58:34.068 Surveyor[65533:70b] [CDVTimer][chromenavigation] 0.027001ms
+2014-05-03 13:58:34.069 Surveyor[65533:70b] [CDVTimer][chromebootstrap] 0.033021ms
+2014-05-03 13:58:34.069 Surveyor[65533:70b] [CDVTimer][chromeextensionurls] 0.045955ms
+2014-05-03 13:58:34.069 Surveyor[65533:70b] [CDVTimer][TotalPluginStartup] 7.472992ms
+2014-05-03 13:58:34.184 Surveyor[65533:70b] Resetting plugins due to page load.
+2014-05-03 13:58:35.436 Surveyor[65533:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[65730]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 14:03:44.898 Surveyor[65730:70b] Cannot find executable for CFBundle 0xa579430 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 14:03:44.902 Surveyor[65730:70b] Cannot find executable for CFBundle 0xa593b90 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 14:03:44.925 Surveyor[65730:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 14:03:44.931 Surveyor[65730:70b] Unlimited access to network resources
+2014-05-03 14:03:44.947 Surveyor[65730:70b] [CDVTimer][keyboard] 0.088990ms
+2014-05-03 14:03:44.956 Surveyor[65730:70b] [CDVTimer][statusbar] 8.250952ms
+2014-05-03 14:03:44.956 Surveyor[65730:70b] [CDVTimer][chromenavigation] 0.067949ms
+2014-05-03 14:03:44.956 Surveyor[65730:70b] [CDVTimer][chromebootstrap] 0.077963ms
+2014-05-03 14:03:44.957 Surveyor[65730:70b] [CDVTimer][chromeextensionurls] 0.068963ms
+2014-05-03 14:03:44.957 Surveyor[65730:70b] [CDVTimer][TotalPluginStartup] 10.107994ms
+2014-05-03 14:03:44.991 Surveyor[65730:70b] Resetting plugins due to page load.
+2014-05-03 14:03:45.928 Surveyor[65730:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[65921]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 14:05:35.499 Surveyor[65921:70b] Cannot find executable for CFBundle 0xa6ab880 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 14:05:35.503 Surveyor[65921:70b] Cannot find executable for CFBundle 0xa6d77c0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 14:05:35.527 Surveyor[65921:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 14:05:35.533 Surveyor[65921:70b] Unlimited access to network resources
+2014-05-03 14:05:35.548 Surveyor[65921:70b] [CDVTimer][keyboard] 0.088990ms
+2014-05-03 14:05:35.554 Surveyor[65921:70b] [CDVTimer][statusbar] 6.354034ms
+2014-05-03 14:05:35.555 Surveyor[65921:70b] [CDVTimer][chromenavigation] 0.028014ms
+2014-05-03 14:05:35.555 Surveyor[65921:70b] [CDVTimer][chromebootstrap] 0.033021ms
+2014-05-03 14:05:35.555 Surveyor[65921:70b] [CDVTimer][chromeextensionurls] 0.045955ms
+2014-05-03 14:05:35.555 Surveyor[65921:70b] [CDVTimer][TotalPluginStartup] 7.502019ms
+2014-05-03 14:05:35.589 Surveyor[65921:70b] Resetting plugins due to page load.
+2014-05-03 14:05:36.398 Surveyor[65921:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[66111]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 14:07:56.243 Surveyor[66111:70b] Cannot find executable for CFBundle 0xa370190 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 14:07:56.246 Surveyor[66111:70b] Cannot find executable for CFBundle 0xa3894f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 14:07:56.271 Surveyor[66111:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 14:07:56.278 Surveyor[66111:70b] Unlimited access to network resources
+2014-05-03 14:07:56.295 Surveyor[66111:70b] [CDVTimer][keyboard] 0.084043ms
+2014-05-03 14:07:56.304 Surveyor[66111:70b] [CDVTimer][statusbar] 8.395016ms
+2014-05-03 14:07:56.304 Surveyor[66111:70b] [CDVTimer][chromenavigation] 0.039041ms
+2014-05-03 14:07:56.304 Surveyor[66111:70b] [CDVTimer][chromebootstrap] 0.077963ms
+2014-05-03 14:07:56.305 Surveyor[66111:70b] [CDVTimer][chromeextensionurls] 0.069976ms
+2014-05-03 14:07:56.305 Surveyor[66111:70b] [CDVTimer][TotalPluginStartup] 10.153949ms
+2014-05-03 14:07:56.339 Surveyor[66111:70b] Resetting plugins due to page load.
+2014-05-03 14:07:57.833 Surveyor[66111:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[66293]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 14:08:24.700 Surveyor[66293:70b] Cannot find executable for CFBundle 0xa796dc0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 14:08:24.703 Surveyor[66293:70b] Cannot find executable for CFBundle 0xa7afd90 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 14:08:24.788 Surveyor[66293:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 14:08:24.798 Surveyor[66293:70b] Unlimited access to network resources
+2014-05-03 14:08:24.817 Surveyor[66293:70b] [CDVTimer][keyboard] 0.092030ms
+2014-05-03 14:08:24.823 Surveyor[66293:70b] [CDVTimer][statusbar] 6.193042ms
+2014-05-03 14:08:24.823 Surveyor[66293:70b] [CDVTimer][chromenavigation] 0.027001ms
+2014-05-03 14:08:24.823 Surveyor[66293:70b] [CDVTimer][chromebootstrap] 0.032961ms
+2014-05-03 14:08:24.824 Surveyor[66293:70b] [CDVTimer][chromeextensionurls] 0.046015ms
+2014-05-03 14:08:24.824 Surveyor[66293:70b] [CDVTimer][TotalPluginStartup] 7.354975ms
+2014-05-03 14:08:24.942 Surveyor[66293:70b] Resetting plugins due to page load.
+2014-05-03 14:08:29.668 Surveyor[66293:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[66498]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 14:30:13.757 Surveyor[66498:70b] Cannot find executable for CFBundle 0xb964a10 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 14:30:13.760 Surveyor[66498:70b] Cannot find executable for CFBundle 0xb987a50 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 14:30:13.784 Surveyor[66498:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 14:30:13.790 Surveyor[66498:70b] Unlimited access to network resources
+2014-05-03 14:30:13.805 Surveyor[66498:70b] [CDVTimer][keyboard] 0.088990ms
+2014-05-03 14:30:13.813 Surveyor[66498:70b] [CDVTimer][statusbar] 7.677972ms
+2014-05-03 14:30:13.813 Surveyor[66498:70b] [CDVTimer][chromenavigation] 0.048995ms
+2014-05-03 14:30:13.814 Surveyor[66498:70b] [CDVTimer][chromebootstrap] 0.050008ms
+2014-05-03 14:30:13.814 Surveyor[66498:70b] [CDVTimer][chromeextensionurls] 0.088990ms
+2014-05-03 14:30:13.814 Surveyor[66498:70b] [CDVTimer][TotalPluginStartup] 9.610951ms
+2014-05-03 14:30:13.848 Surveyor[66498:70b] Resetting plugins due to page load.
+2014-05-03 14:30:14.842 Surveyor[66498:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[66690]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 14:32:22.617 Surveyor[66690:70b] Cannot find executable for CFBundle 0xa6d8510 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 14:32:22.621 Surveyor[66690:70b] Cannot find executable for CFBundle 0xa6f4f10 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 14:32:22.643 Surveyor[66690:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 14:32:22.649 Surveyor[66690:70b] Unlimited access to network resources
+2014-05-03 14:32:22.663 Surveyor[66690:70b] [CDVTimer][keyboard] 0.090957ms
+2014-05-03 14:32:22.672 Surveyor[66690:70b] [CDVTimer][statusbar] 8.171976ms
+2014-05-03 14:32:22.672 Surveyor[66690:70b] [CDVTimer][chromenavigation] 0.057995ms
+2014-05-03 14:32:22.673 Surveyor[66690:70b] [CDVTimer][chromebootstrap] 0.070035ms
+2014-05-03 14:32:22.673 Surveyor[66690:70b] [CDVTimer][chromeextensionurls] 0.087023ms
+2014-05-03 14:32:22.673 Surveyor[66690:70b] [CDVTimer][TotalPluginStartup] 10.113001ms
+2014-05-03 14:32:22.708 Surveyor[66690:70b] Resetting plugins due to page load.
+2014-05-03 14:32:23.807 Surveyor[66690:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[66879]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 14:33:31.593 Surveyor[66879:70b] Cannot find executable for CFBundle 0xa4b04a0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 14:33:31.597 Surveyor[66879:70b] Cannot find executable for CFBundle 0xa4d2c90 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 14:33:31.675 Surveyor[66879:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 14:33:31.682 Surveyor[66879:70b] Unlimited access to network resources
+2014-05-03 14:33:31.696 Surveyor[66879:70b] [CDVTimer][keyboard] 0.088990ms
+2014-05-03 14:33:31.704 Surveyor[66879:70b] [CDVTimer][statusbar] 8.219004ms
+2014-05-03 14:33:31.705 Surveyor[66879:70b] [CDVTimer][chromenavigation] 0.063002ms
+2014-05-03 14:33:31.705 Surveyor[66879:70b] [CDVTimer][chromebootstrap] 0.072002ms
+2014-05-03 14:33:31.706 Surveyor[66879:70b] [CDVTimer][chromeextensionurls] 0.082016ms
+2014-05-03 14:33:31.706 Surveyor[66879:70b] [CDVTimer][TotalPluginStartup] 10.189950ms
+2014-05-03 14:33:31.820 Surveyor[66879:70b] Resetting plugins due to page load.
+2014-05-03 14:33:33.208 Surveyor[66879:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[67062]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 14:34:30.140 Surveyor[67062:70b] Cannot find executable for CFBundle 0x10875240 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 14:34:30.144 Surveyor[67062:70b] Cannot find executable for CFBundle 0xa780110 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 14:34:30.167 Surveyor[67062:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 14:34:30.173 Surveyor[67062:70b] Unlimited access to network resources
+2014-05-03 14:34:30.191 Surveyor[67062:70b] [CDVTimer][keyboard] 0.084043ms
+2014-05-03 14:34:30.197 Surveyor[67062:70b] [CDVTimer][statusbar] 6.258011ms
+2014-05-03 14:34:30.197 Surveyor[67062:70b] [CDVTimer][chromenavigation] 0.027001ms
+2014-05-03 14:34:30.197 Surveyor[67062:70b] [CDVTimer][chromebootstrap] 0.032961ms
+2014-05-03 14:34:30.198 Surveyor[67062:70b] [CDVTimer][chromeextensionurls] 0.046015ms
+2014-05-03 14:34:30.198 Surveyor[67062:70b] [CDVTimer][TotalPluginStartup] 7.414997ms
+2014-05-03 14:34:30.230 Surveyor[67062:70b] Resetting plugins due to page load.
+2014-05-03 14:34:30.978 Surveyor[67062:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[67260]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 14:37:12.162 Surveyor[67260:70b] Cannot find executable for CFBundle 0xa553700 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 14:37:12.166 Surveyor[67260:70b] Cannot find executable for CFBundle 0xa58f560 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 14:37:12.191 Surveyor[67260:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 14:37:12.197 Surveyor[67260:70b] Unlimited access to network resources
+2014-05-03 14:37:12.212 Surveyor[67260:70b] [CDVTimer][keyboard] 0.088990ms
+2014-05-03 14:37:12.219 Surveyor[67260:70b] [CDVTimer][statusbar] 6.217003ms
+2014-05-03 14:37:12.219 Surveyor[67260:70b] [CDVTimer][chromenavigation] 0.027001ms
+2014-05-03 14:37:12.219 Surveyor[67260:70b] [CDVTimer][chromebootstrap] 0.033975ms
+2014-05-03 14:37:12.219 Surveyor[67260:70b] [CDVTimer][chromeextensionurls] 0.046015ms
+2014-05-03 14:37:12.220 Surveyor[67260:70b] [CDVTimer][TotalPluginStartup] 7.371962ms
+2014-05-03 14:37:12.253 Surveyor[67260:70b] Resetting plugins due to page load.
+2014-05-03 14:37:13.607 Surveyor[67260:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[67450]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 14:39:27.972 Surveyor[67450:70b] Cannot find executable for CFBundle 0xa751e70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 14:39:27.976 Surveyor[67450:70b] Cannot find executable for CFBundle 0xa771790 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 14:39:28.041 Surveyor[67450:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 14:39:28.047 Surveyor[67450:70b] Unlimited access to network resources
+2014-05-03 14:39:28.065 Surveyor[67450:70b] [CDVTimer][keyboard] 0.086010ms
+2014-05-03 14:39:28.073 Surveyor[67450:70b] [CDVTimer][statusbar] 8.333981ms
+2014-05-03 14:39:28.074 Surveyor[67450:70b] [CDVTimer][chromenavigation] 0.057995ms
+2014-05-03 14:39:28.074 Surveyor[67450:70b] [CDVTimer][chromebootstrap] 0.087976ms
+2014-05-03 14:39:28.074 Surveyor[67450:70b] [CDVTimer][chromeextensionurls] 0.093043ms
+2014-05-03 14:39:28.075 Surveyor[67450:70b] [CDVTimer][TotalPluginStartup] 10.322034ms
+2014-05-03 14:39:28.194 Surveyor[67450:70b] Resetting plugins due to page load.
+2014-05-03 14:39:28.934 Surveyor[67450:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[67640]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 14:42:30.830 Surveyor[67640:70b] Cannot find executable for CFBundle 0xa582530 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 14:42:30.834 Surveyor[67640:70b] Cannot find executable for CFBundle 0xa5984b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 14:42:30.941 Surveyor[67640:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 14:42:30.951 Surveyor[67640:70b] Unlimited access to network resources
+2014-05-03 14:42:30.974 Surveyor[67640:70b] [CDVTimer][keyboard] 0.084043ms
+2014-05-03 14:42:30.981 Surveyor[67640:70b] [CDVTimer][statusbar] 6.915987ms
+2014-05-03 14:42:30.982 Surveyor[67640:70b] [CDVTimer][chromenavigation] 0.039995ms
+2014-05-03 14:42:30.982 Surveyor[67640:70b] [CDVTimer][chromebootstrap] 0.050008ms
+2014-05-03 14:42:30.982 Surveyor[67640:70b] [CDVTimer][chromeextensionurls] 0.063002ms
+2014-05-03 14:42:30.982 Surveyor[67640:70b] [CDVTimer][TotalPluginStartup] 8.264005ms
+2014-05-03 14:42:31.282 Surveyor[67640:70b] Resetting plugins due to page load.
+2014-05-03 14:42:32.747 Surveyor[67640:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[68034]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 14:43:12.263 Surveyor[68034:70b] Cannot find executable for CFBundle 0xa8d0cd0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 14:43:12.269 Surveyor[68034:70b] Cannot find executable for CFBundle 0xa9b0be0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 14:43:12.622 Surveyor[68034:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 14:43:12.680 Surveyor[68034:70b] Unlimited access to network resources
+2014-05-03 14:43:12.754 Surveyor[68034:70b] [CDVTimer][keyboard] 0.086010ms
+2014-05-03 14:43:12.821 Surveyor[68034:70b] [CDVTimer][statusbar] 67.107022ms
+2014-05-03 14:43:12.822 Surveyor[68034:70b] [CDVTimer][chromenavigation] 0.063002ms
+2014-05-03 14:43:12.823 Surveyor[68034:70b] [CDVTimer][chromebootstrap] 0.084996ms
+2014-05-03 14:43:12.823 Surveyor[68034:70b] [CDVTimer][chromeextensionurls] 0.081956ms
+2014-05-03 14:43:12.824 Surveyor[68034:70b] [CDVTimer][TotalPluginStartup] 70.138991ms
+2014-05-03 14:43:13.195 Surveyor[68034:70b] Resetting plugins due to page load.
+2014-05-03 14:43:14.304 Surveyor[68034:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[68255]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 14:57:37.069 Surveyor[68255:70b] Cannot find executable for CFBundle 0xc05d430 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 14:57:37.075 Surveyor[68255:70b] Cannot find executable for CFBundle 0xff666c0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 14:57:37.190 Surveyor[68255:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 14:57:37.197 Surveyor[68255:70b] Unlimited access to network resources
+2014-05-03 14:57:37.220 Surveyor[68255:70b] [CDVTimer][keyboard] 0.090003ms
+2014-05-03 14:57:37.239 Surveyor[68255:70b] [CDVTimer][statusbar] 18.736005ms
+2014-05-03 14:57:37.240 Surveyor[68255:70b] [CDVTimer][chromenavigation] 0.038981ms
+2014-05-03 14:57:37.240 Surveyor[68255:70b] [CDVTimer][chromebootstrap] 0.037968ms
+2014-05-03 14:57:37.240 Surveyor[68255:70b] [CDVTimer][chromeextensionurls] 0.064015ms
+2014-05-03 14:57:37.241 Surveyor[68255:70b] [CDVTimer][TotalPluginStartup] 20.670056ms
+2014-05-03 14:57:37.427 Surveyor[68255:70b] Resetting plugins due to page load.
+2014-05-03 14:57:39.500 Surveyor[68255:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[71847]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 17:59:24.001 Surveyor[71847:70b] Cannot find executable for CFBundle 0xa372370 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 17:59:24.011 Surveyor[71847:70b] Cannot find executable for CFBundle 0xa39a030 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 17:59:24.289 Surveyor[71847:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 17:59:24.298 Surveyor[71847:70b] Unlimited access to network resources
+2014-05-03 17:59:24.325 Surveyor[71847:70b] [CDVTimer][keyboard] 0.084996ms
+2014-05-03 17:59:24.386 Surveyor[71847:70b] [CDVTimer][statusbar] 60.259998ms
+2014-05-03 17:59:24.386 Surveyor[71847:70b] [CDVTimer][chromenavigation] 0.039995ms
+2014-05-03 17:59:24.387 Surveyor[71847:70b] [CDVTimer][chromebootstrap] 0.051975ms
+2014-05-03 17:59:24.387 Surveyor[71847:70b] [CDVTimer][chromeextensionurls] 0.064015ms
+2014-05-03 17:59:24.388 Surveyor[71847:70b] [CDVTimer][TotalPluginStartup] 62.600970ms
+2014-05-03 17:59:25.527 Surveyor[71847:70b] Resetting plugins due to page load.
+2014-05-03 17:59:26.297 Surveyor[71847:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/login
+objc[72049]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 18:05:01.198 Surveyor[72049:70b] Cannot find executable for CFBundle 0xb866320 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 18:05:01.207 Surveyor[72049:70b] Cannot find executable for CFBundle 0xba7f2c0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 18:05:01.381 Surveyor[72049:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 18:05:01.389 Surveyor[72049:70b] Unlimited access to network resources
+2014-05-03 18:05:01.404 Surveyor[72049:70b] [CDVTimer][keyboard] 0.091016ms
+2014-05-03 18:05:01.429 Surveyor[72049:70b] [CDVTimer][statusbar] 24.771988ms
+2014-05-03 18:05:01.430 Surveyor[72049:70b] [CDVTimer][chromenavigation] 0.047028ms
+2014-05-03 18:05:01.430 Surveyor[72049:70b] [CDVTimer][chromebootstrap] 0.061035ms
+2014-05-03 18:05:01.431 Surveyor[72049:70b] [CDVTimer][chromeextensionurls] 0.075042ms
+2014-05-03 18:05:01.431 Surveyor[72049:70b] [CDVTimer][TotalPluginStartup] 27.427971ms
+2014-05-03 18:05:01.632 Surveyor[72049:70b] Resetting plugins due to page load.
+2014-05-03 18:05:02.657 Surveyor[72049:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/main
+objc[72270]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 18:07:34.413 Surveyor[72270:70b] Cannot find executable for CFBundle 0xa45d0c0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 18:07:34.419 Surveyor[72270:70b] Cannot find executable for CFBundle 0xb04e7b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 18:07:34.459 Surveyor[72270:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 18:07:34.465 Surveyor[72270:70b] Unlimited access to network resources
+2014-05-03 18:07:34.480 Surveyor[72270:70b] [CDVTimer][keyboard] 0.090003ms
+2014-05-03 18:07:34.487 Surveyor[72270:70b] [CDVTimer][statusbar] 6.421983ms
+2014-05-03 18:07:34.488 Surveyor[72270:70b] [CDVTimer][chromenavigation] 0.029981ms
+2014-05-03 18:07:34.488 Surveyor[72270:70b] [CDVTimer][chromebootstrap] 0.041008ms
+2014-05-03 18:07:34.488 Surveyor[72270:70b] [CDVTimer][chromeextensionurls] 0.052989ms
+2014-05-03 18:07:34.489 Surveyor[72270:70b] [CDVTimer][TotalPluginStartup] 8.615971ms
+2014-05-03 18:07:34.573 Surveyor[72270:70b] Resetting plugins due to page load.
+2014-05-03 18:07:35.823 Surveyor[72270:70b] Finished load of: chrome-extension://flmebjndfiondkeieikbknoinjlbojlf/index.html#/main
+objc[72526]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-03 18:08:50.581 Slingshot[72526:70b] Cannot find executable for CFBundle 0xa37ae10 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-03 18:08:50.586 Slingshot[72526:70b] Cannot find executable for CFBundle 0xb99db90 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-03 18:08:50.667 Slingshot[72526:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-03 18:08:50.674 Slingshot[72526:70b] Unlimited access to network resources
+2014-05-03 18:08:50.678 Slingshot[72526:70b] Fix applied for database locations?: YES
+2014-05-03 18:08:50.691 Slingshot[72526:70b] [CDVTimer][keyboard] 0.086963ms
+2014-05-03 18:08:50.700 Slingshot[72526:70b] [CDVTimer][statusbar] 8.207977ms
+2014-05-03 18:08:50.701 Slingshot[72526:70b] [CDVTimer][chromenavigation] 0.028014ms
+2014-05-03 18:08:50.701 Slingshot[72526:70b] [CDVTimer][chromebootstrap] 0.038981ms
+2014-05-03 18:08:50.702 Slingshot[72526:70b] [CDVTimer][chromeextensionurls] 0.048995ms
+2014-05-03 18:08:50.702 Slingshot[72526:70b] [CDVTimer][TotalPluginStartup] 10.585010ms
+2014-05-03 18:08:50.879 Slingshot[72526:70b] Resetting plugins due to page load.
+2014-05-03 18:08:52.260 Slingshot[72526:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[80447]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 12:58:01.695 Slingshot[80447:70b] Cannot find executable for CFBundle 0xa677610 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 12:58:01.705 Slingshot[80447:70b] Cannot find executable for CFBundle 0xa54f160 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 12:58:01.994 Slingshot[80447:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 12:58:02.002 Slingshot[80447:70b] Unlimited access to network resources
+2014-05-04 12:58:02.033 Slingshot[80447:70b] [CDVTimer][keyboard] 0.084996ms
+2014-05-04 12:58:02.106 Slingshot[80447:70b] [CDVTimer][statusbar] 72.728992ms
+2014-05-04 12:58:02.106 Slingshot[80447:70b] [CDVTimer][chromenavigation] 0.036001ms
+2014-05-04 12:58:02.107 Slingshot[80447:70b] [CDVTimer][chromebootstrap] 0.052035ms
+2014-05-04 12:58:02.107 Slingshot[80447:70b] [CDVTimer][chromeextensionurls] 0.060976ms
+2014-05-04 12:58:02.108 Slingshot[80447:70b] [CDVTimer][TotalPluginStartup] 75.008988ms
+2014-05-04 12:58:03.366 Slingshot[80447:70b] Resetting plugins due to page load.
+2014-05-04 12:58:04.369 Slingshot[80447:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[80643]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 13:01:44.890 Slingshot[80643:70b] Cannot find executable for CFBundle 0xb91c040 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 13:01:44.895 Slingshot[80643:70b] Cannot find executable for CFBundle 0xb93cfe0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 13:01:44.917 Slingshot[80643:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 13:01:44.923 Slingshot[80643:70b] Unlimited access to network resources
+2014-05-04 13:01:44.939 Slingshot[80643:70b] [CDVTimer][keyboard] 0.137031ms
+2014-05-04 13:01:44.946 Slingshot[80643:70b] [CDVTimer][statusbar] 6.217957ms
+2014-05-04 13:01:44.946 Slingshot[80643:70b] [CDVTimer][chromenavigation] 0.030994ms
+2014-05-04 13:01:44.946 Slingshot[80643:70b] [CDVTimer][chromebootstrap] 0.034988ms
+2014-05-04 13:01:44.947 Slingshot[80643:70b] [CDVTimer][chromeextensionurls] 0.054002ms
+2014-05-04 13:01:44.947 Slingshot[80643:70b] [CDVTimer][TotalPluginStartup] 8.212984ms
+2014-05-04 13:01:44.979 Slingshot[80643:70b] Resetting plugins due to page load.
+2014-05-04 13:01:45.650 Slingshot[80643:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[80871]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 13:04:41.669 Slingshot[80871:70b] Cannot find executable for CFBundle 0xa3913e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 13:04:41.677 Slingshot[80871:70b] Cannot find executable for CFBundle 0xa541a20 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 13:04:41.796 Slingshot[80871:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 13:04:41.802 Slingshot[80871:70b] Unlimited access to network resources
+2014-05-04 13:04:41.819 Slingshot[80871:70b] [CDVTimer][keyboard] 0.088990ms
+2014-05-04 13:04:41.826 Slingshot[80871:70b] [CDVTimer][statusbar] 6.473005ms
+2014-05-04 13:04:41.826 Slingshot[80871:70b] [CDVTimer][chromenavigation] 0.030994ms
+2014-05-04 13:04:41.826 Slingshot[80871:70b] [CDVTimer][chromebootstrap] 0.037014ms
+2014-05-04 13:04:41.827 Slingshot[80871:70b] [CDVTimer][chromeextensionurls] 0.054002ms
+2014-05-04 13:04:41.827 Slingshot[80871:70b] [CDVTimer][TotalPluginStartup] 8.360028ms
+2014-05-04 13:04:41.876 Slingshot[80871:70b] Resetting plugins due to page load.
+2014-05-04 13:04:42.762 Slingshot[80871:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[81055]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 13:05:20.221 Slingshot[81055:70b] Cannot find executable for CFBundle 0xb254ab0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 13:05:20.226 Slingshot[81055:70b] Cannot find executable for CFBundle 0xa776bd0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 13:05:20.254 Slingshot[81055:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 13:05:20.260 Slingshot[81055:70b] Unlimited access to network resources
+2014-05-04 13:05:20.275 Slingshot[81055:70b] [CDVTimer][keyboard] 0.088036ms
+2014-05-04 13:05:20.281 Slingshot[81055:70b] [CDVTimer][statusbar] 6.168008ms
+2014-05-04 13:05:20.282 Slingshot[81055:70b] [CDVTimer][chromenavigation] 0.029981ms
+2014-05-04 13:05:20.282 Slingshot[81055:70b] [CDVTimer][chromebootstrap] 0.042021ms
+2014-05-04 13:05:20.282 Slingshot[81055:70b] [CDVTimer][chromeextensionurls] 0.051022ms
+2014-05-04 13:05:20.283 Slingshot[81055:70b] [CDVTimer][TotalPluginStartup] 8.018970ms
+2014-05-04 13:05:20.315 Slingshot[81055:70b] Resetting plugins due to page load.
+2014-05-04 13:05:21.891 Slingshot[81055:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[81382]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 13:56:06.508 Slingshot[81382:70b] Cannot find executable for CFBundle 0xa534a70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 13:56:06.512 Slingshot[81382:70b] Cannot find executable for CFBundle 0xa34d450 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 13:56:06.677 Slingshot[81382:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 13:56:06.684 Slingshot[81382:70b] Unlimited access to network resources
+2014-05-04 13:56:06.714 Slingshot[81382:70b] [CDVTimer][keyboard] 0.083983ms
+2014-05-04 13:56:06.721 Slingshot[81382:70b] [CDVTimer][statusbar] 6.626010ms
+2014-05-04 13:56:06.722 Slingshot[81382:70b] [CDVTimer][chromenavigation] 0.028014ms
+2014-05-04 13:56:06.722 Slingshot[81382:70b] [CDVTimer][chromebootstrap] 0.034034ms
+2014-05-04 13:56:06.722 Slingshot[81382:70b] [CDVTimer][chromeextensionurls] 0.047028ms
+2014-05-04 13:56:06.723 Slingshot[81382:70b] [CDVTimer][TotalPluginStartup] 8.415997ms
+2014-05-04 13:56:06.932 Slingshot[81382:70b] Resetting plugins due to page load.
+2014-05-04 13:56:10.697 Slingshot[81382:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[81583]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 13:58:46.192 Slingshot[81583:70b] Cannot find executable for CFBundle 0xa3bba90 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 13:58:46.197 Slingshot[81583:70b] Cannot find executable for CFBundle 0xa6af000 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 13:58:46.267 Slingshot[81583:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 13:58:46.274 Slingshot[81583:70b] Unlimited access to network resources
+2014-05-04 13:58:46.288 Slingshot[81583:70b] [CDVTimer][keyboard] 0.090003ms
+2014-05-04 13:58:46.295 Slingshot[81583:70b] [CDVTimer][statusbar] 6.299019ms
+2014-05-04 13:58:46.295 Slingshot[81583:70b] [CDVTimer][chromenavigation] 0.028968ms
+2014-05-04 13:58:46.295 Slingshot[81583:70b] [CDVTimer][chromebootstrap] 0.039041ms
+2014-05-04 13:58:46.296 Slingshot[81583:70b] [CDVTimer][chromeextensionurls] 0.048995ms
+2014-05-04 13:58:46.296 Slingshot[81583:70b] [CDVTimer][TotalPluginStartup] 8.167982ms
+2014-05-04 13:58:46.390 Slingshot[81583:70b] Resetting plugins due to page load.
+2014-05-04 13:58:47.370 Slingshot[81583:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[81836]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 13:59:27.744 Slingshot[81836:70b] Cannot find executable for CFBundle 0xa632550 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 13:59:27.749 Slingshot[81836:70b] Cannot find executable for CFBundle 0xa543f30 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 13:59:27.836 Slingshot[81836:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 13:59:27.843 Slingshot[81836:70b] Unlimited access to network resources
+2014-05-04 13:59:27.858 Slingshot[81836:70b] [CDVTimer][keyboard] 0.093997ms
+2014-05-04 13:59:27.865 Slingshot[81836:70b] [CDVTimer][statusbar] 6.260037ms
+2014-05-04 13:59:27.866 Slingshot[81836:70b] [CDVTimer][chromenavigation] 0.030041ms
+2014-05-04 13:59:27.866 Slingshot[81836:70b] [CDVTimer][chromebootstrap] 0.037968ms
+2014-05-04 13:59:27.866 Slingshot[81836:70b] [CDVTimer][chromeextensionurls] 0.051022ms
+2014-05-04 13:59:27.867 Slingshot[81836:70b] [CDVTimer][TotalPluginStartup] 8.124948ms
+2014-05-04 13:59:27.960 Slingshot[81836:70b] Resetting plugins due to page load.
+2014-05-04 13:59:28.366 Slingshot[81836:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[82108]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 14:02:17.708 Slingshot[82108:70b] Cannot find executable for CFBundle 0xa72f5f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 14:02:17.713 Slingshot[82108:70b] Cannot find executable for CFBundle 0xa74e120 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 14:02:17.855 Slingshot[82108:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 14:02:17.862 Slingshot[82108:70b] Unlimited access to network resources
+2014-05-04 14:02:17.894 Slingshot[82108:70b] [CDVTimer][keyboard] 0.088036ms
+2014-05-04 14:02:17.901 Slingshot[82108:70b] [CDVTimer][statusbar] 6.318986ms
+2014-05-04 14:02:17.901 Slingshot[82108:70b] [CDVTimer][chromenavigation] 0.029981ms
+2014-05-04 14:02:17.902 Slingshot[82108:70b] [CDVTimer][chromebootstrap] 0.037968ms
+2014-05-04 14:02:17.902 Slingshot[82108:70b] [CDVTimer][chromeextensionurls] 0.050008ms
+2014-05-04 14:02:17.902 Slingshot[82108:70b] [CDVTimer][TotalPluginStartup] 8.498013ms
+2014-05-04 14:02:18.030 Slingshot[82108:70b] Resetting plugins due to page load.
+2014-05-04 14:02:18.716 Slingshot[82108:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[82309]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 14:04:01.330 Slingshot[82309:70b] Cannot find executable for CFBundle 0xa38c730 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 14:04:01.334 Slingshot[82309:70b] Cannot find executable for CFBundle 0xa47aeb0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 14:04:01.424 Slingshot[82309:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 14:04:01.430 Slingshot[82309:70b] Unlimited access to network resources
+2014-05-04 14:04:01.446 Slingshot[82309:70b] [CDVTimer][keyboard] 0.088990ms
+2014-05-04 14:04:01.454 Slingshot[82309:70b] [CDVTimer][statusbar] 8.297980ms
+2014-05-04 14:04:01.455 Slingshot[82309:70b] [CDVTimer][chromenavigation] 0.038981ms
+2014-05-04 14:04:01.456 Slingshot[82309:70b] [CDVTimer][chromebootstrap] 0.041008ms
+2014-05-04 14:04:01.456 Slingshot[82309:70b] [CDVTimer][chromeextensionurls] 0.050008ms
+2014-05-04 14:04:01.456 Slingshot[82309:70b] [CDVTimer][TotalPluginStartup] 10.500968ms
+2014-05-04 14:04:01.554 Slingshot[82309:70b] Resetting plugins due to page load.
+2014-05-04 14:04:02.290 Slingshot[82309:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[82617]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 14:08:11.347 Slingshot[82617:70b] Cannot find executable for CFBundle 0xb74f0f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 14:08:11.351 Slingshot[82617:70b] Cannot find executable for CFBundle 0xa678f80 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 14:08:11.438 Slingshot[82617:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 14:08:11.447 Slingshot[82617:70b] Unlimited access to network resources
+2014-05-04 14:08:11.478 Slingshot[82617:70b] [CDVTimer][keyboard] 0.084996ms
+2014-05-04 14:08:11.485 Slingshot[82617:70b] [CDVTimer][statusbar] 6.660044ms
+2014-05-04 14:08:11.485 Slingshot[82617:70b] [CDVTimer][chromenavigation] 0.030994ms
+2014-05-04 14:08:11.486 Slingshot[82617:70b] [CDVTimer][chromebootstrap] 0.041008ms
+2014-05-04 14:08:11.486 Slingshot[82617:70b] [CDVTimer][chromeextensionurls] 0.050962ms
+2014-05-04 14:08:11.486 Slingshot[82617:70b] [CDVTimer][TotalPluginStartup] 8.762956ms
+2014-05-04 14:08:11.579 Slingshot[82617:70b] Resetting plugins due to page load.
+2014-05-04 14:08:13.091 Slingshot[82617:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[82802]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 14:09:40.093 Slingshot[82802:70b] Cannot find executable for CFBundle 0xa3afef0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 14:09:40.097 Slingshot[82802:70b] Cannot find executable for CFBundle 0xa4903f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 14:09:40.121 Slingshot[82802:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 14:09:40.127 Slingshot[82802:70b] Unlimited access to network resources
+2014-05-04 14:09:40.142 Slingshot[82802:70b] [CDVTimer][keyboard] 0.087023ms
+2014-05-04 14:09:40.149 Slingshot[82802:70b] [CDVTimer][statusbar] 6.384969ms
+2014-05-04 14:09:40.149 Slingshot[82802:70b] [CDVTimer][chromenavigation] 0.030994ms
+2014-05-04 14:09:40.150 Slingshot[82802:70b] [CDVTimer][chromebootstrap] 0.041008ms
+2014-05-04 14:09:40.150 Slingshot[82802:70b] [CDVTimer][chromeextensionurls] 0.047982ms
+2014-05-04 14:09:40.150 Slingshot[82802:70b] [CDVTimer][TotalPluginStartup] 8.298993ms
+2014-05-04 14:09:40.239 Slingshot[82802:70b] Resetting plugins due to page load.
+2014-05-04 14:09:41.313 Slingshot[82802:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[82994]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 14:17:03.070 Slingshot[82994:70b] Cannot find executable for CFBundle 0xa53a3d0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 14:17:03.074 Slingshot[82994:70b] Cannot find executable for CFBundle 0xa43da00 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 14:17:03.097 Slingshot[82994:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 14:17:03.103 Slingshot[82994:70b] Unlimited access to network resources
+2014-05-04 14:17:03.118 Slingshot[82994:70b] [CDVTimer][keyboard] 0.086963ms
+2014-05-04 14:17:03.124 Slingshot[82994:70b] [CDVTimer][statusbar] 6.148040ms
+2014-05-04 14:17:03.125 Slingshot[82994:70b] [CDVTimer][chromenavigation] 0.029981ms
+2014-05-04 14:17:03.125 Slingshot[82994:70b] [CDVTimer][chromebootstrap] 0.034034ms
+2014-05-04 14:17:03.126 Slingshot[82994:70b] [CDVTimer][chromeextensionurls] 0.054002ms
+2014-05-04 14:17:03.126 Slingshot[82994:70b] [CDVTimer][TotalPluginStartup] 7.962048ms
+2014-05-04 14:17:03.159 Slingshot[82994:70b] Resetting plugins due to page load.
+2014-05-04 14:17:03.805 Slingshot[82994:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[83181]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 14:18:50.341 Slingshot[83181:70b] Cannot find executable for CFBundle 0xa37f970 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 14:18:50.347 Slingshot[83181:70b] Cannot find executable for CFBundle 0xa381e70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 14:18:50.370 Slingshot[83181:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 14:18:50.376 Slingshot[83181:70b] Unlimited access to network resources
+2014-05-04 14:18:50.390 Slingshot[83181:70b] [CDVTimer][keyboard] 0.087976ms
+2014-05-04 14:18:50.397 Slingshot[83181:70b] [CDVTimer][statusbar] 6.191015ms
+2014-05-04 14:18:50.397 Slingshot[83181:70b] [CDVTimer][chromenavigation] 0.039995ms
+2014-05-04 14:18:50.398 Slingshot[83181:70b] [CDVTimer][chromebootstrap] 0.034988ms
+2014-05-04 14:18:50.398 Slingshot[83181:70b] [CDVTimer][chromeextensionurls] 0.053048ms
+2014-05-04 14:18:50.398 Slingshot[83181:70b] [CDVTimer][TotalPluginStartup] 8.159041ms
+2014-05-04 14:18:50.431 Slingshot[83181:70b] Resetting plugins due to page load.
+2014-05-04 14:18:51.239 Slingshot[83181:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[83370]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 14:20:56.976 Slingshot[83370:70b] Cannot find executable for CFBundle 0xa567d60 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 14:20:56.980 Slingshot[83370:70b] Cannot find executable for CFBundle 0xa3a1b00 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 14:20:57.009 Slingshot[83370:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 14:20:57.015 Slingshot[83370:70b] Unlimited access to network resources
+2014-05-04 14:20:57.030 Slingshot[83370:70b] [CDVTimer][keyboard] 0.095010ms
+2014-05-04 14:20:57.038 Slingshot[83370:70b] [CDVTimer][statusbar] 7.061958ms
+2014-05-04 14:20:57.038 Slingshot[83370:70b] [CDVTimer][chromenavigation] 0.030994ms
+2014-05-04 14:20:57.039 Slingshot[83370:70b] [CDVTimer][chromebootstrap] 0.034988ms
+2014-05-04 14:20:57.039 Slingshot[83370:70b] [CDVTimer][chromeextensionurls] 0.049055ms
+2014-05-04 14:20:57.039 Slingshot[83370:70b] [CDVTimer][TotalPluginStartup] 9.176970ms
+2014-05-04 14:20:57.074 Slingshot[83370:70b] Resetting plugins due to page load.
+2014-05-04 14:20:57.755 Slingshot[83370:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[83561]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 14:21:46.145 Slingshot[83561:70b] Cannot find executable for CFBundle 0xa5b17e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 14:21:46.149 Slingshot[83561:70b] Cannot find executable for CFBundle 0xa5cbd90 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 14:21:46.172 Slingshot[83561:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 14:21:46.178 Slingshot[83561:70b] Unlimited access to network resources
+2014-05-04 14:21:46.196 Slingshot[83561:70b] [CDVTimer][keyboard] 0.092983ms
+2014-05-04 14:21:46.203 Slingshot[83561:70b] [CDVTimer][statusbar] 6.292999ms
+2014-05-04 14:21:46.203 Slingshot[83561:70b] [CDVTimer][chromenavigation] 0.030994ms
+2014-05-04 14:21:46.203 Slingshot[83561:70b] [CDVTimer][chromebootstrap] 0.041008ms
+2014-05-04 14:21:46.204 Slingshot[83561:70b] [CDVTimer][chromeextensionurls] 0.052989ms
+2014-05-04 14:21:46.204 Slingshot[83561:70b] [CDVTimer][TotalPluginStartup] 8.161962ms
+2014-05-04 14:21:46.237 Slingshot[83561:70b] Resetting plugins due to page load.
+2014-05-04 14:21:47.272 Slingshot[83561:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[83744]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 14:22:35.161 Slingshot[83744:70b] Cannot find executable for CFBundle 0xa8277d0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 14:22:35.166 Slingshot[83744:70b] Cannot find executable for CFBundle 0xa37e1b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 14:22:35.190 Slingshot[83744:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 14:22:35.196 Slingshot[83744:70b] Unlimited access to network resources
+2014-05-04 14:22:35.211 Slingshot[83744:70b] [CDVTimer][keyboard] 0.093043ms
+2014-05-04 14:22:35.219 Slingshot[83744:70b] [CDVTimer][statusbar] 7.339001ms
+2014-05-04 14:22:35.220 Slingshot[83744:70b] [CDVTimer][chromenavigation] 0.030994ms
+2014-05-04 14:22:35.220 Slingshot[83744:70b] [CDVTimer][chromebootstrap] 0.039041ms
+2014-05-04 14:22:35.220 Slingshot[83744:70b] [CDVTimer][chromeextensionurls] 0.051022ms
+2014-05-04 14:22:35.221 Slingshot[83744:70b] [CDVTimer][TotalPluginStartup] 9.480000ms
+2014-05-04 14:22:35.254 Slingshot[83744:70b] Resetting plugins due to page load.
+2014-05-04 14:22:35.927 Slingshot[83744:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[83926]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 14:23:01.038 Slingshot[83926:70b] Cannot find executable for CFBundle 0xa351090 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 14:23:01.042 Slingshot[83926:70b] Cannot find executable for CFBundle 0xa370d00 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 14:23:01.086 Slingshot[83926:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 14:23:01.093 Slingshot[83926:70b] Unlimited access to network resources
+2014-05-04 14:23:01.108 Slingshot[83926:70b] [CDVTimer][keyboard] 0.090003ms
+2014-05-04 14:23:01.116 Slingshot[83926:70b] [CDVTimer][statusbar] 6.937981ms
+2014-05-04 14:23:01.116 Slingshot[83926:70b] [CDVTimer][chromenavigation] 0.032961ms
+2014-05-04 14:23:01.117 Slingshot[83926:70b] [CDVTimer][chromebootstrap] 0.037968ms
+2014-05-04 14:23:01.117 Slingshot[83926:70b] [CDVTimer][chromeextensionurls] 0.091016ms
+2014-05-04 14:23:01.117 Slingshot[83926:70b] [CDVTimer][TotalPluginStartup] 8.985043ms
+2014-05-04 14:23:01.153 Slingshot[83926:70b] Resetting plugins due to page load.
+2014-05-04 14:23:02.675 Slingshot[83926:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[84155]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 14:27:26.511 Slingshot[84155:70b] Cannot find executable for CFBundle 0xb2c3140 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 14:27:26.523 Slingshot[84155:70b] Cannot find executable for CFBundle 0xa59c820 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 14:27:26.692 Slingshot[84155:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 14:27:26.699 Slingshot[84155:70b] Unlimited access to network resources
+2014-05-04 14:27:26.722 Slingshot[84155:70b] [CDVTimer][keyboard] 0.091016ms
+2014-05-04 14:27:26.748 Slingshot[84155:70b] [CDVTimer][statusbar] 25.519013ms
+2014-05-04 14:27:26.748 Slingshot[84155:70b] [CDVTimer][chromenavigation] 0.032008ms
+2014-05-04 14:27:26.749 Slingshot[84155:70b] [CDVTimer][chromebootstrap] 0.037014ms
+2014-05-04 14:27:26.749 Slingshot[84155:70b] [CDVTimer][chromeextensionurls] 0.054002ms
+2014-05-04 14:27:26.749 Slingshot[84155:70b] [CDVTimer][TotalPluginStartup] 27.446985ms
+2014-05-04 14:27:27.163 Slingshot[84155:70b] Resetting plugins due to page load.
+2014-05-04 14:27:28.059 Slingshot[84155:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[84401]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 14:35:38.834 Slingshot[84401:70b] Cannot find executable for CFBundle 0xa748180 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 14:35:38.838 Slingshot[84401:70b] Cannot find executable for CFBundle 0xb542850 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 14:35:38.862 Slingshot[84401:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 14:35:38.868 Slingshot[84401:70b] Unlimited access to network resources
+2014-05-04 14:35:38.883 Slingshot[84401:70b] [CDVTimer][keyboard] 0.086010ms
+2014-05-04 14:35:38.891 Slingshot[84401:70b] [CDVTimer][statusbar] 7.319987ms
+2014-05-04 14:35:38.891 Slingshot[84401:70b] [CDVTimer][chromenavigation] 0.032008ms
+2014-05-04 14:35:38.892 Slingshot[84401:70b] [CDVTimer][chromebootstrap] 0.038981ms
+2014-05-04 14:35:38.892 Slingshot[84401:70b] [CDVTimer][chromeextensionurls] 0.048995ms
+2014-05-04 14:35:38.892 Slingshot[84401:70b] [CDVTimer][TotalPluginStartup] 9.599984ms
+2014-05-04 14:35:38.927 Slingshot[84401:70b] Resetting plugins due to page load.
+2014-05-04 14:35:39.993 Slingshot[84401:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[84604]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 14:48:19.965 Slingshot[84604:70b] Cannot find executable for CFBundle 0xa666e10 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 14:48:19.969 Slingshot[84604:70b] Cannot find executable for CFBundle 0xa480790 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 14:48:19.996 Slingshot[84604:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 14:48:20.003 Slingshot[84604:70b] Unlimited access to network resources
+2014-05-04 14:48:20.018 Slingshot[84604:70b] [CDVTimer][keyboard] 0.086963ms
+2014-05-04 14:48:20.026 Slingshot[84604:70b] [CDVTimer][statusbar] 7.340968ms
+2014-05-04 14:48:20.027 Slingshot[84604:70b] [CDVTimer][chromenavigation] 0.031948ms
+2014-05-04 14:48:20.027 Slingshot[84604:70b] [CDVTimer][chromebootstrap] 0.037968ms
+2014-05-04 14:48:20.027 Slingshot[84604:70b] [CDVTimer][chromeextensionurls] 0.048995ms
+2014-05-04 14:48:20.028 Slingshot[84604:70b] [CDVTimer][TotalPluginStartup] 9.470046ms
+2014-05-04 14:48:20.061 Slingshot[84604:70b] Resetting plugins due to page load.
+2014-05-04 14:48:20.960 Slingshot[84604:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[84797]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 14:53:33.435 Slingshot[84797:70b] Cannot find executable for CFBundle 0xba50fa0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 14:53:33.440 Slingshot[84797:70b] Cannot find executable for CFBundle 0xa48eb60 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 14:53:33.463 Slingshot[84797:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 14:53:33.469 Slingshot[84797:70b] Unlimited access to network resources
+2014-05-04 14:53:33.486 Slingshot[84797:70b] [CDVTimer][keyboard] 0.086010ms
+2014-05-04 14:53:33.493 Slingshot[84797:70b] [CDVTimer][statusbar] 6.274045ms
+2014-05-04 14:53:33.493 Slingshot[84797:70b] [CDVTimer][chromenavigation] 0.032008ms
+2014-05-04 14:53:33.494 Slingshot[84797:70b] [CDVTimer][chromebootstrap] 0.039041ms
+2014-05-04 14:53:33.494 Slingshot[84797:70b] [CDVTimer][chromeextensionurls] 0.052035ms
+2014-05-04 14:53:33.494 Slingshot[84797:70b] [CDVTimer][TotalPluginStartup] 8.080959ms
+2014-05-04 14:53:33.528 Slingshot[84797:70b] Resetting plugins due to page load.
+2014-05-04 14:53:34.297 Slingshot[84797:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[84989]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 14:55:36.246 Slingshot[84989:70b] Cannot find executable for CFBundle 0xb239d00 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 14:55:36.250 Slingshot[84989:70b] Cannot find executable for CFBundle 0xb254180 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 14:55:36.274 Slingshot[84989:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 14:55:36.280 Slingshot[84989:70b] Unlimited access to network resources
+2014-05-04 14:55:36.295 Slingshot[84989:70b] [CDVTimer][keyboard] 0.084043ms
+2014-05-04 14:55:36.303 Slingshot[84989:70b] [CDVTimer][statusbar] 7.057011ms
+2014-05-04 14:55:36.303 Slingshot[84989:70b] [CDVTimer][chromenavigation] 0.030994ms
+2014-05-04 14:55:36.303 Slingshot[84989:70b] [CDVTimer][chromebootstrap] 0.034988ms
+2014-05-04 14:55:36.304 Slingshot[84989:70b] [CDVTimer][chromeextensionurls] 0.055969ms
+2014-05-04 14:55:36.304 Slingshot[84989:70b] [CDVTimer][TotalPluginStartup] 9.270012ms
+2014-05-04 14:55:36.337 Slingshot[84989:70b] Resetting plugins due to page load.
+2014-05-04 14:55:37.764 Slingshot[84989:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[85172]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 14:55:59.010 Slingshot[85172:70b] Cannot find executable for CFBundle 0xa770110 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 14:55:59.014 Slingshot[85172:70b] Cannot find executable for CFBundle 0xa35c550 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 14:55:59.039 Slingshot[85172:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 14:55:59.045 Slingshot[85172:70b] Unlimited access to network resources
+2014-05-04 14:55:59.060 Slingshot[85172:70b] [CDVTimer][keyboard] 0.089049ms
+2014-05-04 14:55:59.067 Slingshot[85172:70b] [CDVTimer][statusbar] 6.790996ms
+2014-05-04 14:55:59.067 Slingshot[85172:70b] [CDVTimer][chromenavigation] 0.029981ms
+2014-05-04 14:55:59.068 Slingshot[85172:70b] [CDVTimer][chromebootstrap] 0.034988ms
+2014-05-04 14:55:59.068 Slingshot[85172:70b] [CDVTimer][chromeextensionurls] 0.054002ms
+2014-05-04 14:55:59.068 Slingshot[85172:70b] [CDVTimer][TotalPluginStartup] 8.659959ms
+2014-05-04 14:55:59.101 Slingshot[85172:70b] Resetting plugins due to page load.
+2014-05-04 14:55:59.572 Slingshot[85172:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[85355]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 14:57:02.755 Slingshot[85355:70b] Cannot find executable for CFBundle 0xa467090 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 14:57:02.759 Slingshot[85355:70b] Cannot find executable for CFBundle 0xa47f560 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 14:57:02.784 Slingshot[85355:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 14:57:02.790 Slingshot[85355:70b] Unlimited access to network resources
+2014-05-04 14:57:02.806 Slingshot[85355:70b] [CDVTimer][keyboard] 0.086010ms
+2014-05-04 14:57:02.812 Slingshot[85355:70b] [CDVTimer][statusbar] 6.209970ms
+2014-05-04 14:57:02.813 Slingshot[85355:70b] [CDVTimer][chromenavigation] 0.030994ms
+2014-05-04 14:57:02.813 Slingshot[85355:70b] [CDVTimer][chromebootstrap] 0.036001ms
+2014-05-04 14:57:02.813 Slingshot[85355:70b] [CDVTimer][chromeextensionurls] 0.052989ms
+2014-05-04 14:57:02.814 Slingshot[85355:70b] [CDVTimer][TotalPluginStartup] 8.076966ms
+2014-05-04 14:57:02.846 Slingshot[85355:70b] Resetting plugins due to page load.
+2014-05-04 14:57:03.319 Slingshot[85355:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[85548]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 15:00:10.554 Slingshot[85548:70b] Cannot find executable for CFBundle 0xa7862d0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 15:00:10.558 Slingshot[85548:70b] Cannot find executable for CFBundle 0xa870c00 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 15:00:10.785 Slingshot[85548:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 15:00:10.792 Slingshot[85548:70b] Unlimited access to network resources
+2014-05-04 15:00:10.809 Slingshot[85548:70b] [CDVTimer][keyboard] 0.090003ms
+2014-05-04 15:00:10.816 Slingshot[85548:70b] [CDVTimer][statusbar] 6.559014ms
+2014-05-04 15:00:10.816 Slingshot[85548:70b] [CDVTimer][chromenavigation] 0.038028ms
+2014-05-04 15:00:10.816 Slingshot[85548:70b] [CDVTimer][chromebootstrap] 0.038981ms
+2014-05-04 15:00:10.817 Slingshot[85548:70b] [CDVTimer][chromeextensionurls] 0.051975ms
+2014-05-04 15:00:10.817 Slingshot[85548:70b] [CDVTimer][TotalPluginStartup] 8.469045ms
+2014-05-04 15:00:11.026 Slingshot[85548:70b] Resetting plugins due to page load.
+2014-05-04 15:00:13.163 Slingshot[85548:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[85744]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 15:05:00.688 Slingshot[85744:70b] Cannot find executable for CFBundle 0xa4a36f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 15:05:00.692 Slingshot[85744:70b] Cannot find executable for CFBundle 0xa4c6780 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 15:05:00.754 Slingshot[85744:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 15:05:00.761 Slingshot[85744:70b] Unlimited access to network resources
+2014-05-04 15:05:00.776 Slingshot[85744:70b] [CDVTimer][keyboard] 0.093997ms
+2014-05-04 15:05:00.783 Slingshot[85744:70b] [CDVTimer][statusbar] 6.667018ms
+2014-05-04 15:05:00.783 Slingshot[85744:70b] [CDVTimer][chromenavigation] 0.030041ms
+2014-05-04 15:05:00.783 Slingshot[85744:70b] [CDVTimer][chromebootstrap] 0.039041ms
+2014-05-04 15:05:00.784 Slingshot[85744:70b] [CDVTimer][chromeextensionurls] 0.048995ms
+2014-05-04 15:05:00.784 Slingshot[85744:70b] [CDVTimer][TotalPluginStartup] 8.596957ms
+2014-05-04 15:05:00.817 Slingshot[85744:70b] Resetting plugins due to page load.
+2014-05-04 15:05:02.190 Slingshot[85744:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[85929]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 15:05:47.783 Slingshot[85929:70b] Cannot find executable for CFBundle 0xa7713e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 15:05:47.787 Slingshot[85929:70b] Cannot find executable for CFBundle 0xa870460 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 15:05:47.965 Slingshot[85929:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 15:05:47.972 Slingshot[85929:70b] Unlimited access to network resources
+2014-05-04 15:05:47.987 Slingshot[85929:70b] [CDVTimer][keyboard] 0.093997ms
+2014-05-04 15:05:47.995 Slingshot[85929:70b] [CDVTimer][statusbar] 7.700026ms
+2014-05-04 15:05:47.995 Slingshot[85929:70b] [CDVTimer][chromenavigation] 0.032008ms
+2014-05-04 15:05:47.996 Slingshot[85929:70b] [CDVTimer][chromebootstrap] 0.036001ms
+2014-05-04 15:05:47.996 Slingshot[85929:70b] [CDVTimer][chromeextensionurls] 0.051022ms
+2014-05-04 15:05:47.996 Slingshot[85929:70b] [CDVTimer][TotalPluginStartup] 9.631991ms
+2014-05-04 15:05:48.190 Slingshot[85929:70b] Resetting plugins due to page load.
+2014-05-04 15:05:50.621 Slingshot[85929:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[86112]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 15:06:22.953 Slingshot[86112:70b] Cannot find executable for CFBundle 0xa473890 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 15:06:22.957 Slingshot[86112:70b] Cannot find executable for CFBundle 0xa589f30 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 15:06:23.059 Slingshot[86112:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 15:06:23.066 Slingshot[86112:70b] Unlimited access to network resources
+2014-05-04 15:06:23.090 Slingshot[86112:70b] [CDVTimer][keyboard] 0.086010ms
+2014-05-04 15:06:23.097 Slingshot[86112:70b] [CDVTimer][statusbar] 6.701052ms
+2014-05-04 15:06:23.098 Slingshot[86112:70b] [CDVTimer][chromenavigation] 0.036001ms
+2014-05-04 15:06:23.098 Slingshot[86112:70b] [CDVTimer][chromebootstrap] 0.054955ms
+2014-05-04 15:06:23.098 Slingshot[86112:70b] [CDVTimer][chromeextensionurls] 0.048995ms
+2014-05-04 15:06:23.099 Slingshot[86112:70b] [CDVTimer][TotalPluginStartup] 8.665979ms
+2014-05-04 15:06:23.193 Slingshot[86112:70b] Resetting plugins due to page load.
+2014-05-04 15:06:24.053 Slingshot[86112:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[86296]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 15:06:56.305 Slingshot[86296:70b] Cannot find executable for CFBundle 0xa88c920 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 15:06:56.310 Slingshot[86296:70b] Cannot find executable for CFBundle 0xa571400 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 15:06:56.415 Slingshot[86296:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 15:06:56.422 Slingshot[86296:70b] Unlimited access to network resources
+2014-05-04 15:06:56.451 Slingshot[86296:70b] [CDVTimer][keyboard] 0.087976ms
+2014-05-04 15:06:56.459 Slingshot[86296:70b] [CDVTimer][statusbar] 6.959021ms
+2014-05-04 15:06:56.459 Slingshot[86296:70b] [CDVTimer][chromenavigation] 0.030994ms
+2014-05-04 15:06:56.459 Slingshot[86296:70b] [CDVTimer][chromebootstrap] 0.038028ms
+2014-05-04 15:06:56.460 Slingshot[86296:70b] [CDVTimer][chromeextensionurls] 0.051022ms
+2014-05-04 15:06:56.460 Slingshot[86296:70b] [CDVTimer][TotalPluginStartup] 8.849978ms
+2014-05-04 15:06:56.837 Slingshot[86296:70b] Resetting plugins due to page load.
+2014-05-04 15:06:58.269 Slingshot[86296:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[86492]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 15:16:23.395 Slingshot[86492:70b] Cannot find executable for CFBundle 0xa783bd0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 15:16:23.399 Slingshot[86492:70b] Cannot find executable for CFBundle 0xa8ba820 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 15:16:23.560 Slingshot[86492:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 15:16:23.566 Slingshot[86492:70b] Unlimited access to network resources
+2014-05-04 15:16:23.598 Slingshot[86492:70b] [CDVTimer][keyboard] 0.090003ms
+2014-05-04 15:16:23.605 Slingshot[86492:70b] [CDVTimer][statusbar] 6.572008ms
+2014-05-04 15:16:23.605 Slingshot[86492:70b] [CDVTimer][chromenavigation] 0.030994ms
+2014-05-04 15:16:23.606 Slingshot[86492:70b] [CDVTimer][chromebootstrap] 0.038981ms
+2014-05-04 15:16:23.606 Slingshot[86492:70b] [CDVTimer][chromeextensionurls] 0.050008ms
+2014-05-04 15:16:23.606 Slingshot[86492:70b] [CDVTimer][TotalPluginStartup] 8.476019ms
+2014-05-04 15:16:23.742 Slingshot[86492:70b] Resetting plugins due to page load.
+2014-05-04 15:16:25.523 Slingshot[86492:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[86787]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 15:23:11.109 Slingshot[86787:70b] Cannot find executable for CFBundle 0xba7d370 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 15:23:11.113 Slingshot[86787:70b] Cannot find executable for CFBundle 0xa386a20 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 15:23:11.288 Slingshot[86787:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 15:23:11.294 Slingshot[86787:70b] Unlimited access to network resources
+2014-05-04 15:23:11.318 Slingshot[86787:70b] [CDVTimer][keyboard] 0.087976ms
+2014-05-04 15:23:11.326 Slingshot[86787:70b] [CDVTimer][statusbar] 7.269979ms
+2014-05-04 15:23:11.327 Slingshot[86787:70b] [CDVTimer][chromenavigation] 0.031054ms
+2014-05-04 15:23:11.327 Slingshot[86787:70b] [CDVTimer][chromebootstrap] 0.034988ms
+2014-05-04 15:23:11.327 Slingshot[86787:70b] [CDVTimer][chromeextensionurls] 0.052989ms
+2014-05-04 15:23:11.328 Slingshot[86787:70b] [CDVTimer][TotalPluginStartup] 9.566009ms
+2014-05-04 15:23:11.425 Slingshot[86787:70b] Resetting plugins due to page load.
+2014-05-04 15:23:13.337 Slingshot[86787:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[87066]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 15:40:53.293 Slingshot[87066:70b] Cannot find executable for CFBundle 0xa3ad2b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 15:40:53.298 Slingshot[87066:70b] Cannot find executable for CFBundle 0xa3cbc20 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 15:40:53.433 Slingshot[87066:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 15:40:53.441 Slingshot[87066:70b] Unlimited access to network resources
+2014-05-04 15:40:53.482 Slingshot[87066:70b] [CDVTimer][keyboard] 0.111043ms
+2014-05-04 15:40:53.490 Slingshot[87066:70b] [CDVTimer][statusbar] 7.476032ms
+2014-05-04 15:40:53.490 Slingshot[87066:70b] [CDVTimer][chromenavigation] 0.029981ms
+2014-05-04 15:40:53.491 Slingshot[87066:70b] [CDVTimer][chromebootstrap] 0.037014ms
+2014-05-04 15:40:53.491 Slingshot[87066:70b] [CDVTimer][chromeextensionurls] 0.047982ms
+2014-05-04 15:40:53.491 Slingshot[87066:70b] [CDVTimer][TotalPluginStartup] 9.521008ms
+2014-05-04 15:40:53.619 Slingshot[87066:70b] Resetting plugins due to page load.
+2014-05-04 15:40:55.191 Slingshot[87066:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[87308]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 15:47:25.952 Slingshot[87308:70b] Cannot find executable for CFBundle 0xa530370 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 15:47:25.957 Slingshot[87308:70b] Cannot find executable for CFBundle 0xb129170 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 15:47:26.110 Slingshot[87308:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 15:47:26.118 Slingshot[87308:70b] Unlimited access to network resources
+2014-05-04 15:47:26.132 Slingshot[87308:70b] [CDVTimer][keyboard] 0.092983ms
+2014-05-04 15:47:26.139 Slingshot[87308:70b] [CDVTimer][statusbar] 6.223023ms
+2014-05-04 15:47:26.139 Slingshot[87308:70b] [CDVTimer][chromenavigation] 0.030994ms
+2014-05-04 15:47:26.139 Slingshot[87308:70b] [CDVTimer][chromebootstrap] 0.038028ms
+2014-05-04 15:47:26.140 Slingshot[87308:70b] [CDVTimer][chromeextensionurls] 0.046968ms
+2014-05-04 15:47:26.140 Slingshot[87308:70b] [CDVTimer][TotalPluginStartup] 8.054018ms
+2014-05-04 15:47:26.350 Slingshot[87308:70b] Resetting plugins due to page load.
+2014-05-04 15:47:27.628 Slingshot[87308:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[87500]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 15:49:12.158 Slingshot[87500:70b] Cannot find executable for CFBundle 0xa3aad70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 15:49:12.167 Slingshot[87500:70b] Cannot find executable for CFBundle 0xa7de440 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 15:49:12.192 Slingshot[87500:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 15:49:12.199 Slingshot[87500:70b] Unlimited access to network resources
+2014-05-04 15:49:12.213 Slingshot[87500:70b] [CDVTimer][keyboard] 0.087976ms
+2014-05-04 15:49:12.220 Slingshot[87500:70b] [CDVTimer][statusbar] 6.492972ms
+2014-05-04 15:49:12.220 Slingshot[87500:70b] [CDVTimer][chromenavigation] 0.039995ms
+2014-05-04 15:49:12.221 Slingshot[87500:70b] [CDVTimer][chromebootstrap] 0.035048ms
+2014-05-04 15:49:12.221 Slingshot[87500:70b] [CDVTimer][chromeextensionurls] 0.052989ms
+2014-05-04 15:49:12.221 Slingshot[87500:70b] [CDVTimer][TotalPluginStartup] 8.445978ms
+2014-05-04 15:49:12.254 Slingshot[87500:70b] Resetting plugins due to page load.
+2014-05-04 15:49:12.681 Slingshot[87500:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
+objc[87690]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-05-04 15:50:00.533 Slingshot[87690:70b] Cannot find executable for CFBundle 0xb86e510 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-05-04 15:50:00.537 Slingshot[87690:70b] Cannot find executable for CFBundle 0xa5649f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-05-04 15:50:00.579 Slingshot[87690:70b] Multi-tasking -> Device: YES, App: YES
+2014-05-04 15:50:00.586 Slingshot[87690:70b] Unlimited access to network resources
+2014-05-04 15:50:00.600 Slingshot[87690:70b] [CDVTimer][keyboard] 0.090003ms
+2014-05-04 15:50:00.607 Slingshot[87690:70b] [CDVTimer][statusbar] 6.272018ms
+2014-05-04 15:50:00.608 Slingshot[87690:70b] [CDVTimer][chromenavigation] 0.043988ms
+2014-05-04 15:50:00.608 Slingshot[87690:70b] [CDVTimer][chromebootstrap] 0.039041ms
+2014-05-04 15:50:00.608 Slingshot[87690:70b] [CDVTimer][chromeextensionurls] 0.052989ms
+2014-05-04 15:50:00.609 Slingshot[87690:70b] [CDVTimer][TotalPluginStartup] 8.261979ms
+2014-05-04 15:50:00.642 Slingshot[87690:70b] Resetting plugins due to page load.
+2014-05-04 15:50:01.756 Slingshot[87690:70b] Finished load of: chrome-extension://ccgpjbfoaomknmcolkfogofmpfddnnmm/index.html#/main
